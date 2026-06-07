@@ -1,5 +1,932 @@
 [
   {
+    "text": " /\\_/\\\n( o.o )\n > ^ <",
+    "slug": "aa-0001",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "動物",
+      "ねこ"
+    ],
+    "reading": [
+      "ねこ",
+      "あすきーあーと"
+    ]
+  },
+  {
+    "text": "(\\_/)\n(='.'=)\n(\")_(\")",
+    "slug": "aa-0002",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "動物",
+      "うさぎ"
+    ],
+    "reading": [
+      "うさぎ",
+      "あすきーあーと"
+    ]
+  },
+  {
+    "text": " /\\_/\\\n(=^.^=)\n (\")(\")",
+    "slug": "aa-0003",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "動物",
+      "ねこ"
+    ],
+    "reading": [
+      "ねこ"
+    ]
+  },
+  {
+    "text": "  ___\n (o,o)\n (   )\n -\"-\"-",
+    "slug": "aa-0004",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "動物",
+      "ふくろう"
+    ],
+    "reading": [
+      "ふくろう",
+      "とり"
+    ]
+  },
+  {
+    "text": " ( \\__/)\n ( •ᴗ•)\n /  >♡",
+    "slug": "aa-0005",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "動物",
+      "うさぎ",
+      "ハート"
+    ],
+    "reading": [
+      "うさぎ",
+      "だいすき"
+    ]
+  },
+  {
+    "text": "｡･ﾟ✧*:･\n:･*✧ﾟ･｡",
+    "slug": "aa-0006",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "キラキラ",
+      "デコ"
+    ],
+    "reading": [
+      "きらきら",
+      "でこ"
+    ]
+  },
+  {
+    "text": "✧･ﾟ: *✧･ﾟ\n*:･ﾟ✧*:･ﾟ",
+    "slug": "aa-0007",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "キラキラ",
+      "デコ"
+    ],
+    "reading": [
+      "きらきら"
+    ]
+  },
+  {
+    "text": " ｡:ﾟ☆｡.ﾟ\nﾟ.｡☆ﾟ:｡",
+    "slug": "aa-0008",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "キラキラ",
+      "星"
+    ],
+    "reading": [
+      "きらきら",
+      "ほし"
+    ]
+  },
+  {
+    "text": "* ﾟ + ｡ *\n｡ * ﾟ + ｡",
+    "slug": "aa-0009",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "キラキラ",
+      "デコ"
+    ],
+    "reading": [
+      "きらきら"
+    ]
+  },
+  {
+    "text": " ♡   ♡\n♡  ♡  ♡\n ♡   ♡\n  ♡ ♡\n   ♡",
+    "slug": "aa-0010",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "ハート"
+    ],
+    "reading": [
+      "はーと",
+      "だいすき"
+    ]
+  },
+  {
+    "text": "♡♡  ♡♡\n♡♡♡♡♡♡\n ♡♡♡♡\n  ♡♡\n   ♡",
+    "slug": "aa-0011",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "ハート"
+    ],
+    "reading": [
+      "はーと",
+      "だいすき"
+    ]
+  },
+  {
+    "text": "　∧＿∧\n（ ´∀｀）\n（つ　 つ",
+    "slug": "aa-0012",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "2ch",
+      "モナー"
+    ],
+    "reading": [
+      "もなー",
+      "にちゃんねる"
+    ]
+  },
+  {
+    "text": "　 ∧∧\n（｡･ω･｡)",
+    "slug": "aa-0013",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "2ch",
+      "しぃ"
+    ],
+    "reading": [
+      "しぃ",
+      "にちゃんねる"
+    ]
+  },
+  {
+    "text": "　 ∧∧\n＜ ´∀｀＞",
+    "slug": "aa-0014",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "2ch",
+      "ギコ"
+    ],
+    "reading": [
+      "ぎこ",
+      "にちゃんねる"
+    ]
+  },
+  {
+    "text": "　∧＿∧\n（ ´・ω・）\n（ つ旦と）",
+    "slug": "aa-0015",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "2ch",
+      "お茶"
+    ],
+    "reading": [
+      "おちゃどうぞ",
+      "にちゃんねる"
+    ]
+  },
+  {
+    "text": "＿人人人人＿\n＞ 突然の死 ＜\n￣Y^Y^Y^Y￣",
+    "slug": "aa-0016",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "2ch",
+      "ネタ"
+    ],
+    "reading": [
+      "とつぜんのし",
+      "ねた"
+    ]
+  },
+  {
+    "text": ".｡oO（ ｡ ｡ ）",
+    "slug": "aa-0017",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "吹き出し"
+    ],
+    "reading": [
+      "ふきだし",
+      "もやもや"
+    ]
+  },
+  {
+    "text": "＿/＼○_\n  |   |\n   |  /",
+    "slug": "aa-0018",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "ネタ",
+      "土下座"
+    ],
+    "reading": [
+      "どげざ",
+      "ごめん"
+    ]
+  },
+  {
+    "text": "╭◜◝◜◝◜◝╮\n.｡o(  ♡  )\n╰◟◞◟◞◟◞╯",
+    "slug": "aa-0019",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "ふきだし",
+      "ハート"
+    ],
+    "reading": [
+      "ふきだし",
+      "でこ"
+    ]
+  },
+  {
+    "text": "╭◜◝ ◜◝ ◜◝╮\n( ´ω` ).｡oO\n╰◟◞ ◟◞ ◟◞╯",
+    "slug": "aa-0020",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "ふきだし"
+    ],
+    "reading": [
+      "ふきだし",
+      "もやもや"
+    ]
+  },
+  {
+    "text": ".｡o○ ( 名前 )",
+    "slug": "aa-0021",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "ふきだし"
+    ],
+    "reading": [
+      "ふきだし",
+      "なまえ"
+    ]
+  },
+  {
+    "text": "(  ´ω`  )｡oо○ ♡",
+    "slug": "aa-0022",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "ふきだし",
+      "ハート"
+    ],
+    "reading": [
+      "ふきだし",
+      "もやもや"
+    ]
+  },
+  {
+    "text": "╭◜◝◝◝◝◜╮\n   Text\n╰◟◞◞◞◞◟╯",
+    "slug": "aa-0023",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "ふきだし",
+      "看板"
+    ],
+    "reading": [
+      "ふきだし",
+      "かんばん"
+    ]
+  },
+  {
+    "text": " ∧＿∧\n(｡･ω･｡)\n┏━O━O━┓\n┃     ┃\n┗━━━━━┛",
+    "slug": "aa-0024",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "看板",
+      "動物"
+    ],
+    "reading": [
+      "かんばん",
+      "ねこ"
+    ]
+  },
+  {
+    "text": "┏━━━━━━┓\n┃ ♡ 名前 ♡ ┃\n┗━━━━━━┛",
+    "slug": "aa-0025",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "看板",
+      "ハート"
+    ],
+    "reading": [
+      "かんばん",
+      "なまえ"
+    ]
+  },
+  {
+    "text": " (\\(\\\n(˶•ω•˶)\n┏━━━━━┓\n┃     ┃\n┗━━━━━┛",
+    "slug": "aa-0026",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "看板",
+      "動物",
+      "うさぎ"
+    ],
+    "reading": [
+      "かんばん",
+      "うさぎ"
+    ]
+  },
+  {
+    "text": "┏━♡━━━♡━┓\n┃  名前  ┃\n┗━♡━━━♡━┛",
+    "slug": "aa-0027",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "看板",
+      "ハート"
+    ],
+    "reading": [
+      "かんばん",
+      "なまえ"
+    ]
+  },
+  {
+    "text": "   ᕱ⋆ᕱ\n ꒰• ω •꒱ﾉ\n┏━━━━━━┓\n┗━━━━━━┛",
+    "slug": "aa-0028",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "看板",
+      "動物",
+      "うさぎ"
+    ],
+    "reading": [
+      "かんばん",
+      "うさぎ"
+    ]
+  },
+  {
+    "text": "╭━━━━━━╮\n╰━━ｖ━━━╯",
+    "slug": "aa-0029",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "ふきだし",
+      "看板"
+    ],
+    "reading": [
+      "ふきだし",
+      "かんばん"
+    ]
+  },
+  {
+    "text": ". ♡ 。 ♡。 ♡\n♡。＼ ｜ ／。♡\n     名前\n♡。／ ｜ ＼。♡\n。♡ 。 。♡。",
+    "slug": "aa-0030",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "ハート",
+      "看板"
+    ],
+    "reading": [
+      "はーと",
+      "なまえ"
+    ]
+  },
+  {
+    "text": "₊⁺·₊˚♡˚₊·⁺₊˚♡˚₊\n   Text\n₊⁺·₊˚♡˚₊·⁺₊˚♡˚₊",
+    "slug": "aa-0031",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "ハート",
+      "キラキラ"
+    ],
+    "reading": [
+      "はーと",
+      "きらきら"
+    ]
+  },
+  {
+    "text": "꒰ ♡ ꒱  ꒰ ♡ ꒱\n  ꒰ ♡ ꒱",
+    "slug": "aa-0032",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "ハート"
+    ],
+    "reading": [
+      "はーと",
+      "でこ"
+    ]
+  },
+  {
+    "text": " ♡ ‧₊˚\n‧₊˚ ♡\n ♡ ‧₊˚",
+    "slug": "aa-0033",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "ハート",
+      "キラキラ"
+    ],
+    "reading": [
+      "はーと",
+      "きらきら"
+    ]
+  },
+  {
+    "text": " /\\_/\\\n( ˶•ω•˶ )\n(  づ  ♡",
+    "slug": "aa-0034",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "動物",
+      "ねこ",
+      "ハート"
+    ],
+    "reading": [
+      "ねこ",
+      "だいすき"
+    ]
+  },
+  {
+    "text": " (\\ /)\n( ･ω･ )\nc(\")(\")",
+    "slug": "aa-0035",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "動物",
+      "うさぎ"
+    ],
+    "reading": [
+      "うさぎ"
+    ]
+  },
+  {
+    "text": " ᕱ⋆ᕱ\n( ˶• ᴗ •˶ )",
+    "slug": "aa-0036",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "動物",
+      "うさぎ",
+      "キラキラ"
+    ],
+    "reading": [
+      "うさぎ",
+      "きらきら"
+    ]
+  },
+  {
+    "text": " ∧＿∧\n( ´• ω •` )\nつ　　と",
+    "slug": "aa-0037",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "動物",
+      "くま"
+    ],
+    "reading": [
+      "くま"
+    ]
+  },
+  {
+    "text": " ( ＾• ω •＾)\n／づ~ ♡",
+    "slug": "aa-0038",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "動物",
+      "ねこ",
+      "ハート"
+    ],
+    "reading": [
+      "ねこ",
+      "だいすき"
+    ]
+  },
+  {
+    "text": " (\\ /)\n( •_• )\nz(\")(\")z",
+    "slug": "aa-0039",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "動物",
+      "うさぎ"
+    ],
+    "reading": [
+      "うさぎ"
+    ]
+  },
+  {
+    "text": "✩ ‧₊˚ ⋆ ｡˚ ⋆ ✩\n   名前\n✩ ‧₊˚ ⋆ ｡˚ ⋆ ✩",
+    "slug": "aa-0040",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "キラキラ",
+      "看板"
+    ],
+    "reading": [
+      "きらきら",
+      "なまえ"
+    ]
+  },
+  {
+    "text": "˚ ✦ ｡ ⊹ ｡ ✦ ˚\n   ♡\n˚ ✦ ｡ ⊹ ｡ ✦ ˚",
+    "slug": "aa-0041",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "キラキラ",
+      "ハート"
+    ],
+    "reading": [
+      "きらきら",
+      "はーと"
+    ]
+  },
+  {
+    "text": "· ˚ ✧ ₊ ⁺ ♡ ⁺ ₊ ✧ ˚ ·",
+    "slug": "aa-0042",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "キラキラ",
+      "区切り"
+    ],
+    "reading": [
+      "きらきら",
+      "くぎり"
+    ]
+  },
+  {
+    "text": "⋆ ˚｡⋆ ♡ ⋆ ˚｡⋆",
+    "slug": "aa-0043",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "キラキラ",
+      "区切り"
+    ],
+    "reading": [
+      "きらきら",
+      "くぎり"
+    ]
+  },
+  {
+    "text": " /\\___/\\\n( ˶• ω •˶ )\n./づ~🍨",
+    "slug": "aa-0044",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "絵文字",
+      "動物",
+      "ねこ"
+    ],
+    "reading": [
+      "ねこ",
+      "あいす"
+    ]
+  },
+  {
+    "text": " ∧🎀∧\n(｡･ω･｡)",
+    "slug": "aa-0045",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "絵文字",
+      "動物",
+      "ねこ"
+    ],
+    "reading": [
+      "ねこ",
+      "りぼん"
+    ]
+  },
+  {
+    "text": " (\\ /)\n( •ω• )💕\nc(\")(\")",
+    "slug": "aa-0046",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "絵文字",
+      "動物",
+      "うさぎ",
+      "ハート"
+    ],
+    "reading": [
+      "うさぎ",
+      "だいすき"
+    ]
+  },
+  {
+    "text": "　∧＿∧\n（ ´∀｀）＜ おまえモナー",
+    "slug": "aa-0047",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "2ch",
+      "モナー"
+    ],
+    "reading": [
+      "もなー",
+      "おまえもなー"
+    ]
+  },
+  {
+    "text": "　∧＿∧\n（ ・∀・）",
+    "slug": "aa-0048",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "2ch",
+      "モララー"
+    ],
+    "reading": [
+      "もららー",
+      "にちゃんねる"
+    ]
+  },
+  {
+    "text": "( ´・ω・｀)",
+    "slug": "aa-0049",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "2ch",
+      "ショボーン"
+    ],
+    "reading": [
+      "しょぼーん",
+      "にちゃんねる"
+    ]
+  },
+  {
+    "text": "ｷﾀ━━━(ﾟ∀ﾟ)━━━!!",
+    "slug": "aa-0050",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "2ch",
+      "キタ"
+    ],
+    "reading": [
+      "きたー",
+      "にちゃんねる"
+    ]
+  },
+  {
+    "text": "　　＿＿＿\n　／⌒　⌒＼\n（ ●）（ ●）",
+    "slug": "aa-0051",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "2ch",
+      "やる夫"
+    ],
+    "reading": [
+      "やるお",
+      "にちゃんねる"
+    ]
+  },
+  {
+    "text": "　 ∩∩\n（ ･(ｪ)･ ）",
+    "slug": "aa-0052",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "2ch",
+      "クマー",
+      "くま"
+    ],
+    "reading": [
+      "くまー",
+      "にちゃんねる"
+    ]
+  },
+  {
+    "text": "　／￣￣＼\n（ ﾟДﾟ ）",
+    "slug": "aa-0053",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "2ch",
+      "ねこ"
+    ],
+    "reading": [
+      "ぬこ",
+      "にちゃんねる"
+    ]
+  },
+  {
+    "text": "ｱﾋｬ(゜∀゜)",
+    "slug": "aa-0054",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "2ch",
+      "ネタ"
+    ],
+    "reading": [
+      "あひゃ",
+      "にちゃんねる"
+    ]
+  },
+  {
+    "text": "( ﾟДﾟ)ゴルァ!",
+    "slug": "aa-0055",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "2ch",
+      "ネタ"
+    ],
+    "reading": [
+      "ごるぁ",
+      "にちゃんねる"
+    ]
+  },
+  {
+    "text": "(´＿ゝ｀)",
+    "slug": "aa-0056",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "2ch",
+      "やれやれ"
+    ],
+    "reading": [
+      "やれやれ",
+      "にちゃんねる"
+    ]
+  },
+  {
+    "text": "(´∀｀*)ｳﾌﾌ",
+    "slug": "aa-0057",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "2ch",
+      "ネタ"
+    ],
+    "reading": [
+      "うふふ",
+      "にちゃんねる"
+    ]
+  },
+  {
+    "text": "　 ＿＿\n／　　＼\n（ ´∀｀）",
+    "slug": "aa-0058",
+    "categories": [
+      "aa"
+    ],
+    "tags": [
+      "AA",
+      "2ch",
+      "ブーン"
+    ],
+    "reading": [
+      "ぶーん",
+      "にちゃんねる"
+    ]
+  },
+  {
     "text": "(=•ω•=)",
     "slug": "animal-0001",
     "categories": [
@@ -7850,6 +8777,1388 @@
     ]
   },
   {
+    "text": "( ´ ▽ ` )",
+    "slug": "egao-0001",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にっこり"
+    ],
+    "reading": [
+      "にっこり",
+      "えがお"
+    ]
+  },
+  {
+    "text": "(◕▽◕)",
+    "slug": "egao-0002",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にっこり"
+    ],
+    "reading": [
+      "にっこり",
+      "えがお"
+    ]
+  },
+  {
+    "text": "( ◜‿◝ )",
+    "slug": "egao-0003",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "微笑み"
+    ],
+    "reading": [
+      "ほほえみ",
+      "にっこり"
+    ]
+  },
+  {
+    "text": "( ◠‿◠ )",
+    "slug": "egao-0004",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "微笑み"
+    ],
+    "reading": [
+      "ほほえみ",
+      "にっこり"
+    ]
+  },
+  {
+    "text": "( ◡‿◡ )",
+    "slug": "egao-0005",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "微笑み"
+    ],
+    "reading": [
+      "ほほえみ",
+      "やさしい"
+    ]
+  },
+  {
+    "text": "(◔◡◔)",
+    "slug": "egao-0006",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にっこり"
+    ],
+    "reading": [
+      "にっこり",
+      "えがお"
+    ]
+  },
+  {
+    "text": "(*´︶`*)",
+    "slug": "egao-0007",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "微笑み",
+      "ほっこり"
+    ],
+    "reading": [
+      "ほほえみ",
+      "ほっこり"
+    ]
+  },
+  {
+    "text": "( ˙▿˙ )",
+    "slug": "egao-0008",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にっこり"
+    ],
+    "reading": [
+      "にっこり",
+      "えがお"
+    ]
+  },
+  {
+    "text": "(◍•ᴗ•◍)",
+    "slug": "egao-0009",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にっこり"
+    ],
+    "reading": [
+      "にっこり",
+      "えがお"
+    ]
+  },
+  {
+    "text": "(˶ᵔ ᵕ ᵔ˶)",
+    "slug": "egao-0010",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "微笑み",
+      "ほっこり"
+    ],
+    "reading": [
+      "ほほえみ",
+      "にっこり"
+    ]
+  },
+  {
+    "text": "(´ ˘ `๑)",
+    "slug": "egao-0011",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "微笑み"
+    ],
+    "reading": [
+      "ほほえみ",
+      "にっこり"
+    ]
+  },
+  {
+    "text": "(ᵔ◡ᵔ)",
+    "slug": "egao-0012",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "微笑み"
+    ],
+    "reading": [
+      "ほほえみ",
+      "にっこり"
+    ]
+  },
+  {
+    "text": "( ´͈ ᵕ `͈ )",
+    "slug": "egao-0013",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にっこり"
+    ],
+    "reading": [
+      "にっこり",
+      "えがお"
+    ]
+  },
+  {
+    "text": "(ㅅ•͈ᴗ•͈)",
+    "slug": "egao-0014",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にっこり"
+    ],
+    "reading": [
+      "にっこり",
+      "えがお"
+    ]
+  },
+  {
+    "text": "( ˶ˆ▽ˆ˵ )",
+    "slug": "egao-0015",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にっこり"
+    ],
+    "reading": [
+      "にっこり",
+      "えがお"
+    ]
+  },
+  {
+    "text": "(„• ֊ •„)",
+    "slug": "egao-0016",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "微笑み",
+      "ほっこり"
+    ],
+    "reading": [
+      "ほほえみ",
+      "ほっこり"
+    ]
+  },
+  {
+    "text": "(*˘︶˘*)",
+    "slug": "egao-0017",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "微笑み",
+      "ほっこり"
+    ],
+    "reading": [
+      "ほほえみ",
+      "ほっこり"
+    ]
+  },
+  {
+    "text": "(◕‿◕)",
+    "slug": "egao-0018",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にこにこ"
+    ],
+    "reading": [
+      "にこにこ",
+      "えがお"
+    ]
+  },
+  {
+    "text": "(｡◕‿◕｡)",
+    "slug": "egao-0019",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にこにこ"
+    ],
+    "reading": [
+      "にこにこ",
+      "えがお"
+    ]
+  },
+  {
+    "text": "(｡•ㅅ•｡)",
+    "slug": "egao-0020",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にこにこ"
+    ],
+    "reading": [
+      "にこにこ",
+      "えがお"
+    ]
+  },
+  {
+    "text": "(=^▽^=)",
+    "slug": "egao-0021",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にこにこ"
+    ],
+    "reading": [
+      "にこにこ",
+      "えがお"
+    ]
+  },
+  {
+    "text": "(*^◡^*)",
+    "slug": "egao-0022",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にこにこ"
+    ],
+    "reading": [
+      "にこにこ",
+      "えがお"
+    ]
+  },
+  {
+    "text": "(*≧ω≦*)",
+    "slug": "egao-0023",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にこにこ"
+    ],
+    "reading": [
+      "にこにこ",
+      "えがお"
+    ]
+  },
+  {
+    "text": "(´∀`*)",
+    "slug": "egao-0024",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にこにこ"
+    ],
+    "reading": [
+      "にこにこ",
+      "えがお"
+    ]
+  },
+  {
+    "text": "(○´∀`○)",
+    "slug": "egao-0025",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にこにこ"
+    ],
+    "reading": [
+      "にこにこ",
+      "えがお"
+    ]
+  },
+  {
+    "text": "(*´∇`*)",
+    "slug": "egao-0026",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にこにこ"
+    ],
+    "reading": [
+      "にこにこ",
+      "えがお"
+    ]
+  },
+  {
+    "text": "(◕ᴗ◕✿)",
+    "slug": "egao-0027",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にこにこ",
+      "お花"
+    ],
+    "reading": [
+      "にこにこ",
+      "えがお"
+    ]
+  },
+  {
+    "text": "(◕‿◕✿)",
+    "slug": "egao-0028",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にこにこ",
+      "お花"
+    ],
+    "reading": [
+      "にこにこ",
+      "えがお"
+    ]
+  },
+  {
+    "text": "( ´ ∀ ` )",
+    "slug": "egao-0029",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にこにこ"
+    ],
+    "reading": [
+      "にこにこ",
+      "えがお"
+    ]
+  },
+  {
+    "text": "(´ω｀*)",
+    "slug": "egao-0030",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にこにこ",
+      "ほっこり"
+    ],
+    "reading": [
+      "にこにこ",
+      "ほっこり"
+    ]
+  },
+  {
+    "text": "(*•̀ᴗ•́*)",
+    "slug": "egao-0031",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にこにこ"
+    ],
+    "reading": [
+      "にこにこ",
+      "えがお"
+    ]
+  },
+  {
+    "text": "( ๑‾̀◡‾́)",
+    "slug": "egao-0032",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にこにこ"
+    ],
+    "reading": [
+      "にこにこ",
+      "えがお"
+    ]
+  },
+  {
+    "text": "(◍•ᴗ•◍)✧*。",
+    "slug": "egao-0033",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にこにこ",
+      "きらきら"
+    ],
+    "reading": [
+      "にこにこ",
+      "えがお"
+    ]
+  },
+  {
+    "text": "ヾ(◕‿◕)ﾉ",
+    "slug": "egao-0034",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にこにこ"
+    ],
+    "reading": [
+      "にこにこ",
+      "えがお"
+    ]
+  },
+  {
+    "text": "(づ｡◕‿‿◕｡)づ",
+    "slug": "egao-0035",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にこにこ"
+    ],
+    "reading": [
+      "にこにこ",
+      "えがお"
+    ]
+  },
+  {
+    "text": "(≧▽≦)",
+    "slug": "egao-0036",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "大笑い",
+      "爆笑"
+    ],
+    "reading": [
+      "わらう",
+      "ばくしょう"
+    ]
+  },
+  {
+    "text": "(≧∀≦)",
+    "slug": "egao-0037",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "大笑い",
+      "爆笑"
+    ],
+    "reading": [
+      "わらう",
+      "ばくしょう"
+    ]
+  },
+  {
+    "text": "(*≧▽≦)",
+    "slug": "egao-0038",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "大笑い",
+      "爆笑"
+    ],
+    "reading": [
+      "わらう",
+      "ばくしょう"
+    ]
+  },
+  {
+    "text": "o(≧▽≦)o",
+    "slug": "egao-0039",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "大笑い"
+    ],
+    "reading": [
+      "わらう",
+      "おおわらい"
+    ]
+  },
+  {
+    "text": "ヽ(≧∀≦)ﾉ",
+    "slug": "egao-0040",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "大笑い",
+      "爆笑"
+    ],
+    "reading": [
+      "わらう",
+      "ばくしょう"
+    ]
+  },
+  {
+    "text": "(*≧∀≦*)",
+    "slug": "egao-0041",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "大笑い"
+    ],
+    "reading": [
+      "わらう",
+      "おおわらい"
+    ]
+  },
+  {
+    "text": "(≧◡≦)",
+    "slug": "egao-0042",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "大笑い"
+    ],
+    "reading": [
+      "わらう",
+      "おおわらい"
+    ]
+  },
+  {
+    "text": "o(≧∇≦)o",
+    "slug": "egao-0043",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "大笑い"
+    ],
+    "reading": [
+      "わらう",
+      "おおわらい"
+    ]
+  },
+  {
+    "text": "ヾ(≧▽≦*)o",
+    "slug": "egao-0044",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "大笑い"
+    ],
+    "reading": [
+      "わらう",
+      "おおわらい"
+    ]
+  },
+  {
+    "text": "(´∀｀)ﾊﾊ",
+    "slug": "egao-0045",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "大笑い",
+      "爆笑"
+    ],
+    "reading": [
+      "はは",
+      "わらう"
+    ]
+  },
+  {
+    "text": "(*ﾟ∀ﾟ*)",
+    "slug": "egao-0046",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "大笑い"
+    ],
+    "reading": [
+      "わらう",
+      "おおわらい"
+    ]
+  },
+  {
+    "text": "ヾ(≧∇≦*)ゝ",
+    "slug": "egao-0047",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "大笑い"
+    ],
+    "reading": [
+      "わらう",
+      "おおわらい"
+    ]
+  },
+  {
+    "text": "＼(≧▽≦)／",
+    "slug": "egao-0048",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "大笑い",
+      "爆笑"
+    ],
+    "reading": [
+      "わらう",
+      "ばくしょう"
+    ]
+  },
+  {
+    "text": "(≧艸≦)",
+    "slug": "egao-0049",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "大笑い",
+      "www"
+    ],
+    "reading": [
+      "わらう",
+      "うける"
+    ]
+  },
+  {
+    "text": "( ´艸`)",
+    "slug": "egao-0050",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "www",
+      "くすくす"
+    ],
+    "reading": [
+      "くすくす",
+      "うける"
+    ]
+  },
+  {
+    "text": "(*´艸`*)",
+    "slug": "egao-0051",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "www",
+      "くすくす"
+    ],
+    "reading": [
+      "くすくす",
+      "うける"
+    ]
+  },
+  {
+    "text": "( ﾟ艸ﾟ)",
+    "slug": "egao-0052",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "www",
+      "爆笑"
+    ],
+    "reading": [
+      "わらう",
+      "うける"
+    ]
+  },
+  {
+    "text": "(o゜▽゜)o",
+    "slug": "egao-0053",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "大笑い"
+    ],
+    "reading": [
+      "わらう",
+      "おおわらい"
+    ]
+  },
+  {
+    "text": "(*＾▽＾*)",
+    "slug": "egao-0054",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "大笑い"
+    ],
+    "reading": [
+      "わらう",
+      "おおわらい"
+    ]
+  },
+  {
+    "text": "ヽ(*≧ω≦)ﾉ",
+    "slug": "egao-0055",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "大笑い"
+    ],
+    "reading": [
+      "わらう",
+      "おおわらい"
+    ]
+  },
+  {
+    "text": "( ´◞ิ౪◟ิ`)",
+    "slug": "egao-0056",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にやにや"
+    ],
+    "reading": [
+      "にやにや",
+      "にやり"
+    ]
+  },
+  {
+    "text": "(◞･౪･)",
+    "slug": "egao-0057",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にやり"
+    ],
+    "reading": [
+      "にやり",
+      "にやにや"
+    ]
+  },
+  {
+    "text": "(´∀｀*)",
+    "slug": "egao-0058",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にやにや"
+    ],
+    "reading": [
+      "にやにや",
+      "にやり"
+    ]
+  },
+  {
+    "text": "(ﾟ∀ﾟ)",
+    "slug": "egao-0059",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にやり"
+    ],
+    "reading": [
+      "にやり",
+      "にやにや"
+    ]
+  },
+  {
+    "text": "(・∀・)",
+    "slug": "egao-0060",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にやり",
+      "シンプル"
+    ],
+    "reading": [
+      "にやり",
+      "にっこり"
+    ]
+  },
+  {
+    "text": "(｀∀´)",
+    "slug": "egao-0061",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にやり",
+      "ドヤ"
+    ],
+    "reading": [
+      "にやり",
+      "どや"
+    ]
+  },
+  {
+    "text": "(￣ー￣)",
+    "slug": "egao-0062",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にやり"
+    ],
+    "reading": [
+      "にやり",
+      "にやにや"
+    ]
+  },
+  {
+    "text": "(￣▽￣)",
+    "slug": "egao-0063",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にやり"
+    ],
+    "reading": [
+      "にやり",
+      "にやにや"
+    ]
+  },
+  {
+    "text": "(*￣▽￣*)",
+    "slug": "egao-0064",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にやにや"
+    ],
+    "reading": [
+      "にやにや",
+      "にやり"
+    ]
+  },
+  {
+    "text": "(￣∀￣)",
+    "slug": "egao-0065",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にやり"
+    ],
+    "reading": [
+      "にやり",
+      "にやにや"
+    ]
+  },
+  {
+    "text": "(´ー｀)",
+    "slug": "egao-0066",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にやり",
+      "まったり"
+    ],
+    "reading": [
+      "にやり",
+      "まったり"
+    ]
+  },
+  {
+    "text": "( ﾟ∀ﾟ)ｱﾊﾊ",
+    "slug": "egao-0067",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にやにや",
+      "爆笑"
+    ],
+    "reading": [
+      "あはは",
+      "わらう"
+    ]
+  },
+  {
+    "text": "(´ε｀ )",
+    "slug": "egao-0068",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "にやり"
+    ],
+    "reading": [
+      "にやり",
+      "にやにや"
+    ]
+  },
+  {
+    "text": "(^^)",
+    "slug": "egao-0069",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "シンプル"
+    ],
+    "reading": [
+      "にこにこ",
+      "えがお"
+    ]
+  },
+  {
+    "text": "(^_^)",
+    "slug": "egao-0070",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "シンプル"
+    ],
+    "reading": [
+      "にこにこ",
+      "えがお"
+    ]
+  },
+  {
+    "text": "(^o^)",
+    "slug": "egao-0071",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "シンプル",
+      "大笑い"
+    ],
+    "reading": [
+      "わらう",
+      "えがお"
+    ]
+  },
+  {
+    "text": "(^▽^)",
+    "slug": "egao-0072",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "シンプル"
+    ],
+    "reading": [
+      "にこにこ",
+      "えがお"
+    ]
+  },
+  {
+    "text": "(＾▽＾)",
+    "slug": "egao-0073",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "シンプル"
+    ],
+    "reading": [
+      "にこにこ",
+      "えがお"
+    ]
+  },
+  {
+    "text": "(・∀・)ﾉ",
+    "slug": "egao-0074",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "シンプル",
+      "あいさつ"
+    ],
+    "reading": [
+      "にっこり",
+      "やっほー"
+    ]
+  },
+  {
+    "text": "(´▽`)",
+    "slug": "egao-0075",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "シンプル"
+    ],
+    "reading": [
+      "にこにこ",
+      "えがお"
+    ]
+  },
+  {
+    "text": "(´∀｀)",
+    "slug": "egao-0076",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "シンプル"
+    ],
+    "reading": [
+      "にこにこ",
+      "えがお"
+    ]
+  },
+  {
+    "text": "(^◇^)",
+    "slug": "egao-0077",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "シンプル",
+      "大笑い"
+    ],
+    "reading": [
+      "わらう",
+      "えがお"
+    ]
+  },
+  {
+    "text": "(*^^*)",
+    "slug": "egao-0078",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "シンプル"
+    ],
+    "reading": [
+      "にこにこ",
+      "えがお"
+    ]
+  },
+  {
+    "text": "(*^_^*)",
+    "slug": "egao-0079",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "シンプル"
+    ],
+    "reading": [
+      "にこにこ",
+      "えがお"
+    ]
+  },
+  {
+    "text": "ヽ(^o^)ノ",
+    "slug": "egao-0080",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "シンプル",
+      "大笑い"
+    ],
+    "reading": [
+      "わーい",
+      "えがお"
+    ]
+  },
+  {
+    "text": "(＾∇＾)",
+    "slug": "egao-0081",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "シンプル"
+    ],
+    "reading": [
+      "にこにこ",
+      "えがお"
+    ]
+  },
+  {
+    "text": "(^人^)",
+    "slug": "egao-0082",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "シンプル"
+    ],
+    "reading": [
+      "にこにこ",
+      "えがお"
+    ]
+  },
+  {
+    "text": "(・ω・)",
+    "slug": "egao-0083",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "シンプル",
+      "ゆるい"
+    ],
+    "reading": [
+      "にっこり",
+      "えがお"
+    ]
+  },
+  {
+    "text": "( ﾟ▽ﾟ)/",
+    "slug": "egao-0084",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "シンプル",
+      "あいさつ"
+    ],
+    "reading": [
+      "やっほー",
+      "えがお"
+    ]
+  },
+  {
+    "text": "(*´▽`*)",
+    "slug": "egao-0085",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "シンプル"
+    ],
+    "reading": [
+      "にこにこ",
+      "えがお"
+    ]
+  },
+  {
+    "text": "(`･ω･´)",
+    "slug": "egao-0086",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "キリッ",
+      "ドヤ"
+    ],
+    "reading": [
+      "きりっ",
+      "どや"
+    ]
+  },
+  {
+    "text": "( •̀ ᴗ •́ )✧",
+    "slug": "egao-0087",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "ドヤ",
+      "きらきら"
+    ],
+    "reading": [
+      "どや",
+      "きりっ"
+    ]
+  },
+  {
+    "text": "(｡•̀ᴗ-)✧",
+    "slug": "egao-0088",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "ドヤ",
+      "ウインク"
+    ],
+    "reading": [
+      "どや",
+      "ういんく"
+    ]
+  },
+  {
+    "text": "(*•̀ᴗ•́*)و",
+    "slug": "egao-0089",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "ドヤ"
+    ],
+    "reading": [
+      "どや",
+      "えがお"
+    ]
+  },
+  {
+    "text": "(￣ー￣)b",
+    "slug": "egao-0090",
+    "categories": [
+      "egao"
+    ],
+    "tags": [
+      "笑顔",
+      "ドヤ",
+      "にやり"
+    ],
+    "reading": [
+      "どや",
+      "にやり"
+    ]
+  },
+  {
     "text": "✨(ﾉ◕ヮ◕)ﾉ✨",
     "slug": "emoji-0001",
     "categories": [
@@ -11886,6 +14195,1211 @@
     ]
   },
   {
+    "text": "(★▽★)",
+    "slug": "kirakira-0001",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "キラキラ目"
+    ],
+    "reading": [
+      "きらきら",
+      "きらり"
+    ]
+  },
+  {
+    "text": "(☆∀☆)",
+    "slug": "kirakira-0002",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "キラキラ目"
+    ],
+    "reading": [
+      "きらきら",
+      "きらり"
+    ]
+  },
+  {
+    "text": "(★ω★)",
+    "slug": "kirakira-0003",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "キラキラ目"
+    ],
+    "reading": [
+      "きらきら",
+      "きらり"
+    ]
+  },
+  {
+    "text": "(☆▽☆)",
+    "slug": "kirakira-0004",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "キラキラ目"
+    ],
+    "reading": [
+      "きらきら",
+      "きらり"
+    ]
+  },
+  {
+    "text": "( ✧ω✧ )",
+    "slug": "kirakira-0005",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "キラキラ目"
+    ],
+    "reading": [
+      "きらきら",
+      "きらり"
+    ]
+  },
+  {
+    "text": "(✧▽✧)",
+    "slug": "kirakira-0006",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "キラキラ目"
+    ],
+    "reading": [
+      "きらきら",
+      "きらり"
+    ]
+  },
+  {
+    "text": "(✦ω✦)",
+    "slug": "kirakira-0007",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "キラキラ目"
+    ],
+    "reading": [
+      "きらきら",
+      "きらり"
+    ]
+  },
+  {
+    "text": "(★w★)",
+    "slug": "kirakira-0008",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "キラキラ目"
+    ],
+    "reading": [
+      "きらきら",
+      "きらり"
+    ]
+  },
+  {
+    "text": "(☆ω☆)",
+    "slug": "kirakira-0009",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "キラキラ目"
+    ],
+    "reading": [
+      "きらきら",
+      "きらり"
+    ]
+  },
+  {
+    "text": "(★ヮ★)",
+    "slug": "kirakira-0010",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "キラキラ目"
+    ],
+    "reading": [
+      "きらきら",
+      "きらり"
+    ]
+  },
+  {
+    "text": "(✧ヮ✧)",
+    "slug": "kirakira-0011",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "キラキラ目"
+    ],
+    "reading": [
+      "きらきら",
+      "きらり"
+    ]
+  },
+  {
+    "text": "(✩ᗜ✩)",
+    "slug": "kirakira-0012",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "キラキラ目"
+    ],
+    "reading": [
+      "きらきら",
+      "きらり"
+    ]
+  },
+  {
+    "text": "(*★ω★*)",
+    "slug": "kirakira-0013",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "キラキラ目"
+    ],
+    "reading": [
+      "きらきら",
+      "きらり"
+    ]
+  },
+  {
+    "text": "(๑✧ω✧๑)",
+    "slug": "kirakira-0014",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "キラキラ目"
+    ],
+    "reading": [
+      "きらきら",
+      "きらり"
+    ]
+  },
+  {
+    "text": "( ☆ω☆ )",
+    "slug": "kirakira-0015",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "キラキラ目"
+    ],
+    "reading": [
+      "きらきら",
+      "きらり"
+    ]
+  },
+  {
+    "text": "(♡✧ω✧♡)",
+    "slug": "kirakira-0016",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "キラキラ目",
+      "ハート"
+    ],
+    "reading": [
+      "きらきら",
+      "きゅん"
+    ]
+  },
+  {
+    "text": "ヽ(★ω★)ﾉ",
+    "slug": "kirakira-0017",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "キラキラ目",
+      "ばんざい"
+    ],
+    "reading": [
+      "きらきら",
+      "わーい"
+    ]
+  },
+  {
+    "text": "(✧Д✧)",
+    "slug": "kirakira-0018",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "キラキラ目",
+      "感動"
+    ],
+    "reading": [
+      "きらきら",
+      "かんどう"
+    ]
+  },
+  {
+    "text": "(★Д★)",
+    "slug": "kirakira-0019",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "キラキラ目",
+      "感動"
+    ],
+    "reading": [
+      "きらきら",
+      "かんどう"
+    ]
+  },
+  {
+    "text": "( ✧ Д✧)",
+    "slug": "kirakira-0020",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "キラキラ目",
+      "感動"
+    ],
+    "reading": [
+      "きらきら",
+      "かんどう"
+    ]
+  },
+  {
+    "text": "｡ﾟ(*´∀`*)ﾟ｡",
+    "slug": "kirakira-0021",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらきら",
+      "笑顔"
+    ],
+    "reading": [
+      "きらきら",
+      "にこにこ"
+    ]
+  },
+  {
+    "text": "✧*。(*´∀`*)",
+    "slug": "kirakira-0022",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらきら",
+      "笑顔"
+    ],
+    "reading": [
+      "きらきら",
+      "にこにこ"
+    ]
+  },
+  {
+    "text": "ヽ(◕ヮ◕)ﾉ*:･ﾟ✧",
+    "slug": "kirakira-0023",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらきら",
+      "ばんざい"
+    ],
+    "reading": [
+      "きらきら",
+      "わーい"
+    ]
+  },
+  {
+    "text": "(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧",
+    "slug": "kirakira-0024",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらきら",
+      "投げる"
+    ],
+    "reading": [
+      "きらきら",
+      "えいっ"
+    ]
+  },
+  {
+    "text": "✧･ﾟ:* (*´ω`*) *:･ﾟ✧",
+    "slug": "kirakira-0025",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらきら",
+      "うっとり"
+    ],
+    "reading": [
+      "きらきら",
+      "うっとり"
+    ]
+  },
+  {
+    "text": ".｡.:*・゜(★ω★)゜・*:.｡",
+    "slug": "kirakira-0026",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらきら",
+      "キラキラ目"
+    ],
+    "reading": [
+      "きらきら",
+      "きらり"
+    ]
+  },
+  {
+    "text": "ﾟ+｡:.ﾟ(*´∀`*)ﾟ.:｡+ﾟ",
+    "slug": "kirakira-0027",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらきら",
+      "笑顔"
+    ],
+    "reading": [
+      "きらきら",
+      "にこにこ"
+    ]
+  },
+  {
+    "text": "✧.*(◍•ᴗ•◍)*.✧",
+    "slug": "kirakira-0028",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらきら",
+      "笑顔"
+    ],
+    "reading": [
+      "きらきら",
+      "にこにこ"
+    ]
+  },
+  {
+    "text": "☆*:.｡.(´▽`).｡.:*☆",
+    "slug": "kirakira-0029",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらきら",
+      "笑顔"
+    ],
+    "reading": [
+      "きらきら",
+      "にこにこ"
+    ]
+  },
+  {
+    "text": "+｡:.ﾟ(´∀`)ﾟ.:｡+",
+    "slug": "kirakira-0030",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらきら"
+    ],
+    "reading": [
+      "きらきら",
+      "にこにこ"
+    ]
+  },
+  {
+    "text": "✩°｡⋆(ˊᗜˋ*)",
+    "slug": "kirakira-0031",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらきら",
+      "ごきげん"
+    ],
+    "reading": [
+      "きらきら",
+      "わーい"
+    ]
+  },
+  {
+    "text": "⋆｡°✩(◕ᴗ◕)✩°｡⋆",
+    "slug": "kirakira-0032",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらきら"
+    ],
+    "reading": [
+      "きらきら",
+      "にこにこ"
+    ]
+  },
+  {
+    "text": "｡ﾟ✧(´▽`)✧ﾟ｡",
+    "slug": "kirakira-0033",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらきら",
+      "笑顔"
+    ],
+    "reading": [
+      "きらきら",
+      "にこにこ"
+    ]
+  },
+  {
+    "text": "✦.｡.:*(˶ˆ▽ˆ˵):*.｡.✦",
+    "slug": "kirakira-0034",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらきら",
+      "笑顔"
+    ],
+    "reading": [
+      "きらきら",
+      "にこにこ"
+    ]
+  },
+  {
+    "text": "☆彡(´▽`)",
+    "slug": "kirakira-0035",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらきら",
+      "流れ星"
+    ],
+    "reading": [
+      "きらきら",
+      "ながれぼし"
+    ]
+  },
+  {
+    "text": "(´▽`)ﾉ☆彡",
+    "slug": "kirakira-0036",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらきら",
+      "流れ星"
+    ],
+    "reading": [
+      "きらきら",
+      "ながれぼし"
+    ]
+  },
+  {
+    "text": "★彡(◕ᴗ◕)彡☆",
+    "slug": "kirakira-0037",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらきら",
+      "流れ星"
+    ],
+    "reading": [
+      "きらきら",
+      "ながれぼし"
+    ]
+  },
+  {
+    "text": "✧˚*(*´ω`*)*˚✧",
+    "slug": "kirakira-0038",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらきら",
+      "うっとり"
+    ],
+    "reading": [
+      "きらきら",
+      "うっとり"
+    ]
+  },
+  {
+    "text": "｡+ﾟ✧(◍•ᗜ•◍)✧ﾟ+｡",
+    "slug": "kirakira-0039",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらきら",
+      "笑顔"
+    ],
+    "reading": [
+      "きらきら",
+      "にこにこ"
+    ]
+  },
+  {
+    "text": "✩*｡(*´▽`*)",
+    "slug": "kirakira-0040",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらきら",
+      "うっとり"
+    ],
+    "reading": [
+      "きらきら",
+      "うっとり"
+    ]
+  },
+  {
+    "text": "(★ｰ★)",
+    "slug": "kirakira-0041",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "期待",
+      "キラキラ目"
+    ],
+    "reading": [
+      "きらきら",
+      "わくわく"
+    ]
+  },
+  {
+    "text": "(☆ｰ☆)",
+    "slug": "kirakira-0042",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "期待",
+      "キラキラ目"
+    ],
+    "reading": [
+      "きらきら",
+      "わくわく"
+    ]
+  },
+  {
+    "text": "(*★∀★*)",
+    "slug": "kirakira-0043",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "期待"
+    ],
+    "reading": [
+      "きらきら",
+      "わくわく"
+    ]
+  },
+  {
+    "text": "(((o(★ω★)o)))",
+    "slug": "kirakira-0044",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "期待",
+      "わくわく"
+    ],
+    "reading": [
+      "わくわく",
+      "きらきら"
+    ]
+  },
+  {
+    "text": "o(★ω★)o",
+    "slug": "kirakira-0045",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "期待",
+      "わくわく"
+    ],
+    "reading": [
+      "わくわく",
+      "きらきら"
+    ]
+  },
+  {
+    "text": "(๑✧∀✧๑)",
+    "slug": "kirakira-0046",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "期待"
+    ],
+    "reading": [
+      "きらきら",
+      "わくわく"
+    ]
+  },
+  {
+    "text": "ヽ(✧∀✧)ﾉ",
+    "slug": "kirakira-0047",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "期待",
+      "ばんざい"
+    ],
+    "reading": [
+      "きらきら",
+      "わーい"
+    ]
+  },
+  {
+    "text": "(☆▽☆)/",
+    "slug": "kirakira-0048",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "期待",
+      "わくわく"
+    ],
+    "reading": [
+      "わくわく",
+      "きらきら"
+    ]
+  },
+  {
+    "text": "＼(★ω★)／",
+    "slug": "kirakira-0049",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "期待",
+      "ばんざい"
+    ],
+    "reading": [
+      "きらきら",
+      "わーい"
+    ]
+  },
+  {
+    "text": "(o✧∀✧o)",
+    "slug": "kirakira-0050",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "期待"
+    ],
+    "reading": [
+      "きらきら",
+      "わくわく"
+    ]
+  },
+  {
+    "text": "(✧ ∀ ✧)",
+    "slug": "kirakira-0051",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "期待",
+      "憧れ"
+    ],
+    "reading": [
+      "きらきら",
+      "あこがれ"
+    ]
+  },
+  {
+    "text": "(✩ ∀ ✩)",
+    "slug": "kirakira-0052",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "期待",
+      "憧れ"
+    ],
+    "reading": [
+      "きらきら",
+      "あこがれ"
+    ]
+  },
+  {
+    "text": "ヾ(★ω★)ノ",
+    "slug": "kirakira-0053",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "期待",
+      "ばんざい"
+    ],
+    "reading": [
+      "きらきら",
+      "わーい"
+    ]
+  },
+  {
+    "text": "(★∀★)b",
+    "slug": "kirakira-0054",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "期待",
+      "ぐっ"
+    ],
+    "reading": [
+      "きらきら",
+      "ぐっ"
+    ]
+  },
+  {
+    "text": "(｡•̀ᴗ-)✧",
+    "slug": "kirakira-0055",
+    "categories": [
+      "kirakira",
+      "cute"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらきら",
+      "ウインク",
+      "可愛い"
+    ],
+    "reading": [
+      "きらり",
+      "ういんく"
+    ]
+  },
+  {
+    "text": "( •̀ ᴗ •́ )✧",
+    "slug": "kirakira-0056",
+    "categories": [
+      "kirakira",
+      "cute"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらきら",
+      "可愛い"
+    ],
+    "reading": [
+      "きらり",
+      "やるき"
+    ]
+  },
+  {
+    "text": "(◍•ᴗ•◍)✧*。",
+    "slug": "kirakira-0057",
+    "categories": [
+      "kirakira",
+      "cute"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらきら",
+      "可愛い"
+    ],
+    "reading": [
+      "きらきら",
+      "にこにこ"
+    ]
+  },
+  {
+    "text": "✧♡(๑•̀ᗜ•́)",
+    "slug": "kirakira-0058",
+    "categories": [
+      "kirakira",
+      "cute"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらきら",
+      "ハート",
+      "可愛い"
+    ],
+    "reading": [
+      "きらきら",
+      "だいすき"
+    ]
+  },
+  {
+    "text": "(♡˙︶˙♡)✧",
+    "slug": "kirakira-0059",
+    "categories": [
+      "kirakira",
+      "cute"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらきら",
+      "ハート",
+      "可愛い"
+    ],
+    "reading": [
+      "きらきら",
+      "きゅん"
+    ]
+  },
+  {
+    "text": "(◕‿◕✿)✧",
+    "slug": "kirakira-0060",
+    "categories": [
+      "kirakira",
+      "cute"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらきら",
+      "お花",
+      "可愛い"
+    ],
+    "reading": [
+      "きらきら",
+      "にこにこ"
+    ]
+  },
+  {
+    "text": "(✿✧ᴗ✧)",
+    "slug": "kirakira-0061",
+    "categories": [
+      "kirakira",
+      "cute"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらきら",
+      "お花",
+      "可愛い"
+    ],
+    "reading": [
+      "きらきら",
+      "にこにこ"
+    ]
+  },
+  {
+    "text": "✩(˶ᵔ ᵕ ᵔ˶)✩",
+    "slug": "kirakira-0062",
+    "categories": [
+      "kirakira",
+      "cute"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらきら",
+      "可愛い"
+    ],
+    "reading": [
+      "きらきら",
+      "にこにこ"
+    ]
+  },
+  {
+    "text": "(♡´▽`♡)✧",
+    "slug": "kirakira-0063",
+    "categories": [
+      "kirakira",
+      "cute"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらきら",
+      "ハート",
+      "可愛い"
+    ],
+    "reading": [
+      "きらきら",
+      "だいすき"
+    ]
+  },
+  {
+    "text": "✧(≧◡≦)✧",
+    "slug": "kirakira-0064",
+    "categories": [
+      "kirakira",
+      "cute"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらきら",
+      "笑顔",
+      "可愛い"
+    ],
+    "reading": [
+      "きらきら",
+      "にこにこ"
+    ]
+  },
+  {
+    "text": "(*✧‿✧*)",
+    "slug": "kirakira-0065",
+    "categories": [
+      "kirakira",
+      "cute"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらきら",
+      "可愛い"
+    ],
+    "reading": [
+      "きらきら",
+      "にこにこ"
+    ]
+  },
+  {
+    "text": "( ◕‿◕ )｡ﾟ✧",
+    "slug": "kirakira-0066",
+    "categories": [
+      "kirakira",
+      "cute"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらきら",
+      "可愛い"
+    ],
+    "reading": [
+      "きらきら",
+      "にこにこ"
+    ]
+  },
+  {
+    "text": "✧*。٩(ˊᗜˋ*)و *。✧",
+    "slug": "kirakira-0067",
+    "categories": [
+      "kirakira",
+      "cute"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらきら",
+      "がんばる",
+      "可愛い"
+    ],
+    "reading": [
+      "きらきら",
+      "がんばる"
+    ]
+  },
+  {
+    "text": "(๑•̀ㅂ•́)و✧",
+    "slug": "kirakira-0068",
+    "categories": [
+      "kirakira",
+      "cute"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらきら",
+      "がんばる",
+      "可愛い"
+    ],
+    "reading": [
+      "きらきら",
+      "がんばる"
+    ]
+  },
+  {
+    "text": "｡✧*ﾟ(っ◔◡◔)っ ♥",
+    "slug": "kirakira-0069",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "魔法",
+      "きらめき"
+    ],
+    "reading": [
+      "きらめき",
+      "まほう"
+    ]
+  },
+  {
+    "text": "(っ・ω・)っ ✧*。",
+    "slug": "kirakira-0070",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "魔法",
+      "きらめき"
+    ],
+    "reading": [
+      "きらめき",
+      "まほう"
+    ]
+  },
+  {
+    "text": "✧･ﾟ:*✧･ﾟ:*(´▽`)*:･ﾟ✧*:･ﾟ✧",
+    "slug": "kirakira-0071",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "魔法",
+      "きらめき"
+    ],
+    "reading": [
+      "きらめき",
+      "まほう"
+    ]
+  },
+  {
+    "text": "(ﾉ✧ω✧)ﾉ*:･ﾟ✧",
+    "slug": "kirakira-0072",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "魔法",
+      "きらめき",
+      "キラキラ目"
+    ],
+    "reading": [
+      "きらめき",
+      "まほう"
+    ]
+  },
+  {
+    "text": "☆.｡.:*・°☆.｡.:*・°☆",
+    "slug": "kirakira-0073",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらめき",
+      "装飾"
+    ],
+    "reading": [
+      "きらめき",
+      "きらきら"
+    ]
+  },
+  {
+    "text": "✧⋆｡°✩⋆｡°✧",
+    "slug": "kirakira-0074",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "きらめき",
+      "装飾"
+    ],
+    "reading": [
+      "きらめき",
+      "きらきら"
+    ]
+  },
+  {
+    "text": "ヽ(✧ω✧)ﾉ☆.｡.:*",
+    "slug": "kirakira-0075",
+    "categories": [
+      "kirakira"
+    ],
+    "tags": [
+      "キラキラ",
+      "魔法",
+      "きらめき",
+      "キラキラ目"
+    ],
+    "reading": [
+      "きらめき",
+      "まほう"
+    ]
+  },
+  {
     "text": "(´ڡ`)",
     "slug": "mogumogu-0001",
     "categories": [
@@ -13584,6 +17098,6955 @@
     "reading": [
       "なげる",
       "きらきら"
+    ]
+  },
+  {
+    "text": "(尊い)",
+    "slug": "otaku-0001",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "尊い"
+    ],
+    "reading": [
+      "とうとい",
+      "おたく"
+    ]
+  },
+  {
+    "text": "尊い…(´；ω；`)",
+    "slug": "otaku-0002",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "尊い",
+      "語彙力喪失"
+    ],
+    "reading": [
+      "とうとい",
+      "ごいりょくそうしつ"
+    ]
+  },
+  {
+    "text": "尊すぎる(*ﾟ∀ﾟ*)",
+    "slug": "otaku-0003",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "尊い",
+      "興奮"
+    ],
+    "reading": [
+      "とうとい",
+      "おし"
+    ]
+  },
+  {
+    "text": "(語彙力)",
+    "slug": "otaku-0004",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "語彙力喪失"
+    ],
+    "reading": [
+      "ごいりょく",
+      "おたく"
+    ]
+  },
+  {
+    "text": "もう…(語彙力)",
+    "slug": "otaku-0005",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "語彙力喪失"
+    ],
+    "reading": [
+      "ごいりょく",
+      "むり"
+    ]
+  },
+  {
+    "text": "( ´ ﾟдﾟ`)尊い",
+    "slug": "otaku-0006",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "尊い"
+    ],
+    "reading": [
+      "とうとい",
+      "おたく"
+    ]
+  },
+  {
+    "text": "(；ω；)尊い",
+    "slug": "otaku-0007",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "尊い"
+    ],
+    "reading": [
+      "とうとい",
+      "なき"
+    ]
+  },
+  {
+    "text": "尊死(˘ω˘)",
+    "slug": "otaku-0008",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "尊い",
+      "昇天"
+    ],
+    "reading": [
+      "とうとし",
+      "しょうてん"
+    ]
+  },
+  {
+    "text": "ほんと尊い(つ﹏⊂)",
+    "slug": "otaku-0009",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "尊い",
+      "語彙力喪失"
+    ],
+    "reading": [
+      "とうとい",
+      "ごいりょく"
+    ]
+  },
+  {
+    "text": "は？尊い(ﾟ∀ﾟ)",
+    "slug": "otaku-0010",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "尊い",
+      "興奮"
+    ],
+    "reading": [
+      "とうとい",
+      "おたく"
+    ]
+  },
+  {
+    "text": "尊みが深い(ﾟдﾟ)",
+    "slug": "otaku-0011",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "尊い"
+    ],
+    "reading": [
+      "とうとみ",
+      "おたく"
+    ]
+  },
+  {
+    "text": "語彙力消えた(°﹃°)",
+    "slug": "otaku-0012",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "語彙力喪失"
+    ],
+    "reading": [
+      "ごいりょく",
+      "きえた"
+    ]
+  },
+  {
+    "text": "ﾟ∀ﾟ)━━━!!",
+    "slug": "otaku-0013",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "興奮",
+      "キタ"
+    ],
+    "reading": [
+      "きた",
+      "こうふん"
+    ]
+  },
+  {
+    "text": "ｷﾀ━(ﾟ∀ﾟ)━!",
+    "slug": "otaku-0014",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "興奮",
+      "キタ"
+    ],
+    "reading": [
+      "きた",
+      "こうふん"
+    ]
+  },
+  {
+    "text": "ｷﾀ━━━(ﾟ∀ﾟ)━━━!!",
+    "slug": "otaku-0015",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "興奮",
+      "キタ"
+    ],
+    "reading": [
+      "きた",
+      "こうふん"
+    ]
+  },
+  {
+    "text": "ｷﾀ━(ﾟ∀ﾟ)━(ﾟ∀ﾟ)━!",
+    "slug": "otaku-0016",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "興奮",
+      "キタ"
+    ],
+    "reading": [
+      "きた",
+      "こうふん"
+    ]
+  },
+  {
+    "text": "テンアゲ(ﾟ∀ﾟ)",
+    "slug": "otaku-0017",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "興奮"
+    ],
+    "reading": [
+      "てんしょん",
+      "こうふん"
+    ]
+  },
+  {
+    "text": "٩(๑•ω•๑)۶",
+    "slug": "otaku-0018",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "興奮",
+      "テンション"
+    ],
+    "reading": [
+      "こうふん",
+      "てんしょん"
+    ]
+  },
+  {
+    "text": "ﾜｧｧ(ﾉﾟ∀ﾟ)ﾉ",
+    "slug": "otaku-0019",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "興奮"
+    ],
+    "reading": [
+      "わー",
+      "こうふん"
+    ]
+  },
+  {
+    "text": "推し尊すぎ(((ﾟ∀ﾟ)))",
+    "slug": "otaku-0020",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "興奮",
+      "尊い"
+    ],
+    "reading": [
+      "おし",
+      "こうふん"
+    ]
+  },
+  {
+    "text": "ｷﾀ━(･∀･)━!",
+    "slug": "otaku-0021",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "興奮",
+      "キタ"
+    ],
+    "reading": [
+      "きた",
+      "こうふん"
+    ]
+  },
+  {
+    "text": "ｷﾀｺﾚ(ﾟ∀ﾟ)",
+    "slug": "otaku-0022",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "興奮",
+      "キタ"
+    ],
+    "reading": [
+      "きたこれ",
+      "こうふん"
+    ]
+  },
+  {
+    "text": "(ﾉ∀`)ﾟ。ﾟ",
+    "slug": "otaku-0023",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "興奮"
+    ],
+    "reading": [
+      "こうふん",
+      "やばい"
+    ]
+  },
+  {
+    "text": "ﾃﾝｼｮﾝ爆上げ(*ﾟ∀ﾟ*)",
+    "slug": "otaku-0024",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "興奮",
+      "テンション"
+    ],
+    "reading": [
+      "てんしょん",
+      "こうふん"
+    ]
+  },
+  {
+    "text": "うおおお(ﾉﾟдﾟ)ﾉ",
+    "slug": "otaku-0025",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "興奮"
+    ],
+    "reading": [
+      "うおー",
+      "こうふん"
+    ]
+  },
+  {
+    "text": "ヤバ(ﾟ∀ﾟ屮)屮",
+    "slug": "otaku-0026",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "興奮"
+    ],
+    "reading": [
+      "やばい",
+      "こうふん"
+    ]
+  },
+  {
+    "text": "神(((o(*ﾟ∀ﾟ*)o)))",
+    "slug": "otaku-0027",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "興奮",
+      "尊い"
+    ],
+    "reading": [
+      "かみ",
+      "こうふん"
+    ]
+  },
+  {
+    "text": "( ﾟ﹃ﾟ )",
+    "slug": "otaku-0028",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "よだれ"
+    ],
+    "reading": [
+      "よだれ",
+      "うっとり"
+    ]
+  },
+  {
+    "text": "(´﹃｀)",
+    "slug": "otaku-0029",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "よだれ"
+    ],
+    "reading": [
+      "よだれ",
+      "うっとり"
+    ]
+  },
+  {
+    "text": "(´ºωº`)﹃",
+    "slug": "otaku-0030",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "よだれ",
+      "恍惚"
+    ],
+    "reading": [
+      "よだれ",
+      "こうこつ"
+    ]
+  },
+  {
+    "text": "じゅるり(´﹃`)",
+    "slug": "otaku-0031",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "よだれ"
+    ],
+    "reading": [
+      "よだれ",
+      "じゅるり"
+    ]
+  },
+  {
+    "text": "(ﾟдﾟ)﹃",
+    "slug": "otaku-0032",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "よだれ"
+    ],
+    "reading": [
+      "よだれ",
+      "おたく"
+    ]
+  },
+  {
+    "text": "恍惚(♡ω♡)",
+    "slug": "otaku-0033",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "恍惚"
+    ],
+    "reading": [
+      "こうこつ",
+      "うっとり"
+    ]
+  },
+  {
+    "text": "(*♡∀♡*)推し",
+    "slug": "otaku-0034",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "恍惚",
+      "尊い"
+    ],
+    "reading": [
+      "こうこつ",
+      "おし"
+    ]
+  },
+  {
+    "text": "うっとり(´ω｀♡)",
+    "slug": "otaku-0035",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "恍惚"
+    ],
+    "reading": [
+      "うっとり",
+      "こうこつ"
+    ]
+  },
+  {
+    "text": "(*´﹃`*)",
+    "slug": "otaku-0036",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "よだれ",
+      "恍惚"
+    ],
+    "reading": [
+      "よだれ",
+      "うっとり"
+    ]
+  },
+  {
+    "text": "ﾊｱﾊｱ(´Д｀)﹃",
+    "slug": "otaku-0037",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "よだれ",
+      "恍惚"
+    ],
+    "reading": [
+      "はあはあ",
+      "こうこつ"
+    ]
+  },
+  {
+    "text": "(๑´﹃`๑)",
+    "slug": "otaku-0038",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "よだれ"
+    ],
+    "reading": [
+      "よだれ",
+      "うっとり"
+    ]
+  },
+  {
+    "text": "推し見てたら(´﹃`)",
+    "slug": "otaku-0039",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "よだれ"
+    ],
+    "reading": [
+      "よだれ",
+      "おし"
+    ]
+  },
+  {
+    "text": "(˘ω˘)昇天",
+    "slug": "otaku-0040",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "昇天"
+    ],
+    "reading": [
+      "しょうてん",
+      "おたく"
+    ]
+  },
+  {
+    "text": "もう無理(˘ω˘)死んだ",
+    "slug": "otaku-0041",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "昇天",
+      "尊死"
+    ],
+    "reading": [
+      "むり",
+      "しんだ"
+    ]
+  },
+  {
+    "text": "ﾟ。( ˘ω˘ )｡ﾟ",
+    "slug": "otaku-0042",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "昇天"
+    ],
+    "reading": [
+      "しょうてん",
+      "おたく"
+    ]
+  },
+  {
+    "text": "尊死した(˘ω˘)",
+    "slug": "otaku-0043",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "昇天",
+      "尊い"
+    ],
+    "reading": [
+      "とうとし",
+      "しょうてん"
+    ]
+  },
+  {
+    "text": "成仏(-ω-)",
+    "slug": "otaku-0044",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "昇天"
+    ],
+    "reading": [
+      "じょうぶつ",
+      "しょうてん"
+    ]
+  },
+  {
+    "text": "ﾊﾟﾀ(˘ω˘)ﾘ",
+    "slug": "otaku-0045",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "昇天"
+    ],
+    "reading": [
+      "ぱたり",
+      "しんだ"
+    ]
+  },
+  {
+    "text": "(˘ω˘)Zzz昇天",
+    "slug": "otaku-0046",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "昇天"
+    ],
+    "reading": [
+      "しょうてん",
+      "しんだ"
+    ]
+  },
+  {
+    "text": "墓(´；ω；`)",
+    "slug": "otaku-0047",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "尊死",
+      "昇天"
+    ],
+    "reading": [
+      "はか",
+      "しんだ"
+    ]
+  },
+  {
+    "text": "バタンキュー(˘ω˘)",
+    "slug": "otaku-0048",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "昇天"
+    ],
+    "reading": [
+      "ばたんきゅー",
+      "しんだ"
+    ]
+  },
+  {
+    "text": "(x_x)昇天",
+    "slug": "otaku-0049",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "昇天",
+      "尊死"
+    ],
+    "reading": [
+      "しょうてん",
+      "しんだ"
+    ]
+  },
+  {
+    "text": "私が死んだ(˘ω˘)",
+    "slug": "otaku-0050",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "尊死"
+    ],
+    "reading": [
+      "しんだ",
+      "むり"
+    ]
+  },
+  {
+    "text": "成仏します(-人-)",
+    "slug": "otaku-0051",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "昇天"
+    ],
+    "reading": [
+      "じょうぶつ",
+      "しょうてん"
+    ]
+  },
+  {
+    "text": "(´･ω･`)",
+    "slug": "otaku-0052",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "ネット",
+      "2ちゃんねる"
+    ],
+    "reading": [
+      "しょぼーん",
+      "おたく"
+    ]
+  },
+  {
+    "text": "(ﾟ∀ﾟ)",
+    "slug": "otaku-0053",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "ネット"
+    ],
+    "reading": [
+      "おたく",
+      "ぎゃー"
+    ]
+  },
+  {
+    "text": "( ´∀`)",
+    "slug": "otaku-0054",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "ネット"
+    ],
+    "reading": [
+      "おたく",
+      "にやり"
+    ]
+  },
+  {
+    "text": "(`･ω･´)",
+    "slug": "otaku-0055",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "ネット"
+    ],
+    "reading": [
+      "きりっ",
+      "おたく"
+    ]
+  },
+  {
+    "text": "(´∀｀)",
+    "slug": "otaku-0056",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "ネット"
+    ],
+    "reading": [
+      "おたく",
+      "にやり"
+    ]
+  },
+  {
+    "text": "( ･`ω･´)",
+    "slug": "otaku-0057",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "ネット"
+    ],
+    "reading": [
+      "きりっ",
+      "おたく"
+    ]
+  },
+  {
+    "text": "(`ω´)",
+    "slug": "otaku-0058",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "ネット"
+    ],
+    "reading": [
+      "どや",
+      "おたく"
+    ]
+  },
+  {
+    "text": "(´ﾟдﾟ`)",
+    "slug": "otaku-0059",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "ネット",
+      "2ちゃんねる"
+    ],
+    "reading": [
+      "ぽかーん",
+      "おたく"
+    ]
+  },
+  {
+    "text": "( ﾟ∀ﾟ)ｱﾊﾊ",
+    "slug": "otaku-0060",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "ネット"
+    ],
+    "reading": [
+      "あはは",
+      "おたく"
+    ]
+  },
+  {
+    "text": "(・∀・)ニヤニヤ",
+    "slug": "otaku-0061",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "ネット"
+    ],
+    "reading": [
+      "にやにや",
+      "おたく"
+    ]
+  },
+  {
+    "text": "(ﾟ∀ﾟ)アヒャ",
+    "slug": "otaku-0062",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "ネット"
+    ],
+    "reading": [
+      "あひゃ",
+      "おたく"
+    ]
+  },
+  {
+    "text": "(´・ω・)ﾉ",
+    "slug": "otaku-0063",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "ネット"
+    ],
+    "reading": [
+      "おたく",
+      "ノシ"
+    ]
+  },
+  {
+    "text": "ｷﾞｺﾞｺﾞ(ﾟ∀ﾟ)",
+    "slug": "otaku-0064",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "ネット"
+    ],
+    "reading": [
+      "おたく",
+      "ぎゃー"
+    ]
+  },
+  {
+    "text": "( ´д`)",
+    "slug": "otaku-0065",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "ネット",
+      "2ちゃんねる"
+    ],
+    "reading": [
+      "はぁ",
+      "おたく"
+    ]
+  },
+  {
+    "text": "(ﾟ∀ﾟ)イラッシャイ!",
+    "slug": "otaku-0066",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "ネット"
+    ],
+    "reading": [
+      "いらっしゃい",
+      "おたく"
+    ]
+  },
+  {
+    "text": "＞＜",
+    "slug": "otaku-0067",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "ネット"
+    ],
+    "reading": [
+      "きゃー",
+      "おたく"
+    ]
+  },
+  {
+    "text": "( ＞＜)",
+    "slug": "otaku-0068",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "ネット"
+    ],
+    "reading": [
+      "きゃー",
+      "おたく"
+    ]
+  },
+  {
+    "text": "(つ＞＜⊂)",
+    "slug": "otaku-0069",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "ネット",
+      "興奮"
+    ],
+    "reading": [
+      "きゃー",
+      "むり"
+    ]
+  },
+  {
+    "text": "ﾝ ﾅｰﾝ(ﾟ∀ﾟ)",
+    "slug": "otaku-0070",
+    "categories": [
+      "otaku"
+    ],
+    "tags": [
+      "オタク",
+      "ネット"
+    ],
+    "reading": [
+      "なーん",
+      "おたく"
+    ]
+  },
+  {
+    "text": "(｡•ᴗ•｡)",
+    "slug": "ryosangata-0001",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "にこにこ"
+    ],
+    "reading": [
+      "にこにこ",
+      "かわいい"
+    ]
+  },
+  {
+    "text": "( ´ ᵕ ` )",
+    "slug": "ryosangata-0002",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "にこにこ"
+    ],
+    "reading": [
+      "にこにこ"
+    ]
+  },
+  {
+    "text": "(◍•ᴗ•◍)",
+    "slug": "ryosangata-0003",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "にこにこ",
+      "ほっぺ"
+    ],
+    "reading": [
+      "にこにこ",
+      "ほっこり"
+    ]
+  },
+  {
+    "text": "( ˶•ᴗ•˶ )",
+    "slug": "ryosangata-0004",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "にこにこ"
+    ],
+    "reading": [
+      "にこにこ"
+    ]
+  },
+  {
+    "text": "(ᵔᴗᵔ)",
+    "slug": "ryosangata-0005",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "にこにこ"
+    ],
+    "reading": [
+      "にこにこ"
+    ]
+  },
+  {
+    "text": "( ◡‿◡ )",
+    "slug": "ryosangata-0006",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "ほっこり"
+    ],
+    "reading": [
+      "にこにこ",
+      "ほっこり"
+    ]
+  },
+  {
+    "text": "(｡◕‿◕｡)",
+    "slug": "ryosangata-0007",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "にこにこ"
+    ],
+    "reading": [
+      "にこにこ"
+    ]
+  },
+  {
+    "text": "( ´• ᵕ •` )",
+    "slug": "ryosangata-0008",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "にこにこ"
+    ],
+    "reading": [
+      "にこにこ",
+      "かわいい"
+    ]
+  },
+  {
+    "text": "(*´ᵕ`*)",
+    "slug": "ryosangata-0009",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "ほっぺ"
+    ],
+    "reading": [
+      "にこにこ",
+      "ほっこり"
+    ]
+  },
+  {
+    "text": "( ˘ ᵕ ˘ )",
+    "slug": "ryosangata-0010",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "ほっこり"
+    ],
+    "reading": [
+      "にこにこ",
+      "うっとり"
+    ]
+  },
+  {
+    "text": "(•ᴗ•)",
+    "slug": "ryosangata-0011",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "にこにこ"
+    ],
+    "reading": [
+      "にこにこ"
+    ]
+  },
+  {
+    "text": "( ᵕᴗᵕ )",
+    "slug": "ryosangata-0012",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "にこにこ"
+    ],
+    "reading": [
+      "にこにこ"
+    ]
+  },
+  {
+    "text": "(｡˃ ᵕ ˂｡)",
+    "slug": "ryosangata-0013",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "にこにこ"
+    ],
+    "reading": [
+      "にこにこ",
+      "うれしい"
+    ]
+  },
+  {
+    "text": "( ⸜•ᴗ•⸝ )",
+    "slug": "ryosangata-0014",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "にこにこ"
+    ],
+    "reading": [
+      "にこにこ"
+    ]
+  },
+  {
+    "text": "( ˶ˊ ᵕ ˋ˶ )",
+    "slug": "ryosangata-0015",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "にこにこ",
+      "ほっぺ"
+    ],
+    "reading": [
+      "にこにこ",
+      "かわいい"
+    ]
+  },
+  {
+    "text": "( ᴗ ᵕ ᴗ )",
+    "slug": "ryosangata-0016",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "にこにこ"
+    ],
+    "reading": [
+      "にこにこ"
+    ]
+  },
+  {
+    "text": "( >ᴗ< )",
+    "slug": "ryosangata-0017",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "きゅるん"
+    ],
+    "reading": [
+      "きゅるん",
+      "にこにこ"
+    ]
+  },
+  {
+    "text": "(｡>‿<｡)",
+    "slug": "ryosangata-0018",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "きゅるん"
+    ],
+    "reading": [
+      "きゅるん"
+    ]
+  },
+  {
+    "text": "( ˃ ᵕ ˂ )",
+    "slug": "ryosangata-0019",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "きゅるん"
+    ],
+    "reading": [
+      "きゅるん"
+    ]
+  },
+  {
+    "text": "( >ω< )",
+    "slug": "ryosangata-0020",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "きゅるん"
+    ],
+    "reading": [
+      "きゅるん",
+      "うれしい"
+    ]
+  },
+  {
+    "text": "( ˶˃ ᵕ ˂˶ )",
+    "slug": "ryosangata-0021",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "きゅるん",
+      "ほっぺ"
+    ],
+    "reading": [
+      "きゅるん"
+    ]
+  },
+  {
+    "text": "( >ᴗ<｡)",
+    "slug": "ryosangata-0022",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "きゅるん"
+    ],
+    "reading": [
+      "きゅるん"
+    ]
+  },
+  {
+    "text": "( ੭ ˃ ᵕ ˂ )੭",
+    "slug": "ryosangata-0023",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "きゅるん"
+    ],
+    "reading": [
+      "きゅるん",
+      "ぎゅー"
+    ]
+  },
+  {
+    "text": "( ⸜˃ ᵕ ˂⸝ )",
+    "slug": "ryosangata-0024",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "きゅるん"
+    ],
+    "reading": [
+      "きゅるん"
+    ]
+  },
+  {
+    "text": "(˃ ᵕ ˂ )♡",
+    "slug": "ryosangata-0025",
+    "categories": [
+      "ryosangata",
+      "cute"
+    ],
+    "tags": [
+      "量産型",
+      "きゅるん",
+      "ハート"
+    ],
+    "reading": [
+      "きゅるん",
+      "だいすき"
+    ]
+  },
+  {
+    "text": "( ｡˃ ᵕ ˂｡)",
+    "slug": "ryosangata-0026",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "きゅるん"
+    ],
+    "reading": [
+      "きゅるん"
+    ]
+  },
+  {
+    "text": "( ˃ ˕ ˂ )",
+    "slug": "ryosangata-0027",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "きゅるん"
+    ],
+    "reading": [
+      "きゅるん"
+    ]
+  },
+  {
+    "text": "ʚ( ˃ ᵕ ˂ )ɞ",
+    "slug": "ryosangata-0028",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "きゅるん",
+      "てんし"
+    ],
+    "reading": [
+      "きゅるん",
+      "てんし"
+    ]
+  },
+  {
+    "text": "( •̀ ᵕ •́ )",
+    "slug": "ryosangata-0029",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "きゅるん",
+      "どや"
+    ],
+    "reading": [
+      "きゅるん",
+      "どや"
+    ]
+  },
+  {
+    "text": "( ˃ᴗ˂ )",
+    "slug": "ryosangata-0030",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "きゅるん"
+    ],
+    "reading": [
+      "きゅるん"
+    ]
+  },
+  {
+    "text": "( ; ᵕ ; )",
+    "slug": "ryosangata-0031",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "うるうる"
+    ],
+    "reading": [
+      "うるうる",
+      "ぴえん"
+    ]
+  },
+  {
+    "text": "( ｡• ᵕ •｡)",
+    "slug": "ryosangata-0032",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "うるうる"
+    ],
+    "reading": [
+      "うるうる"
+    ]
+  },
+  {
+    "text": "( ⸝⸝• ᵕ •⸝⸝ )",
+    "slug": "ryosangata-0033",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "うるうる",
+      "ほっぺ"
+    ],
+    "reading": [
+      "うるうる",
+      "ぴえん"
+    ]
+  },
+  {
+    "text": "( ᵕ̈ )",
+    "slug": "ryosangata-0034",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "うるうる"
+    ],
+    "reading": [
+      "うるうる"
+    ]
+  },
+  {
+    "text": "(｡ŏ ﹏ ŏ｡)",
+    "slug": "ryosangata-0035",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "うるうる",
+      "ぴえん"
+    ],
+    "reading": [
+      "うるうる",
+      "ぴえん"
+    ]
+  },
+  {
+    "text": "( • ᵕ • )",
+    "slug": "ryosangata-0036",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "うるうる"
+    ],
+    "reading": [
+      "うるうる"
+    ]
+  },
+  {
+    "text": "( º﹏º )",
+    "slug": "ryosangata-0037",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "うるうる",
+      "ぴえん"
+    ],
+    "reading": [
+      "うるうる",
+      "ぴえん"
+    ]
+  },
+  {
+    "text": "( ⸝⸝› ᵕ ‹⸝⸝ )",
+    "slug": "ryosangata-0038",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "うるうる"
+    ],
+    "reading": [
+      "うるうる"
+    ]
+  },
+  {
+    "text": "(｡ᵕ ᵕ｡)",
+    "slug": "ryosangata-0039",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "うるうる"
+    ],
+    "reading": [
+      "うるうる",
+      "うるっ"
+    ]
+  },
+  {
+    "text": "( •﹏• )",
+    "slug": "ryosangata-0040",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "うるうる"
+    ],
+    "reading": [
+      "うるうる"
+    ]
+  },
+  {
+    "text": "( ੭ ᵕ ᵕ )੭",
+    "slug": "ryosangata-0041",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "うるうる",
+      "あまえ"
+    ],
+    "reading": [
+      "うるうる",
+      "あまえ"
+    ]
+  },
+  {
+    "text": "( ⸝⸝ᵕ ᵕ⸝⸝ )",
+    "slug": "ryosangata-0042",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "うるうる",
+      "ほっぺ"
+    ],
+    "reading": [
+      "うるうる"
+    ]
+  },
+  {
+    "text": "( ⸝⸝•ᴗ•⸝⸝ )",
+    "slug": "ryosangata-0043",
+    "categories": [
+      "ryosangata",
+      "tereru"
+    ],
+    "tags": [
+      "量産型",
+      "照れ"
+    ],
+    "reading": [
+      "てれてれ",
+      "もじもじ"
+    ]
+  },
+  {
+    "text": "(///ᴗ///)",
+    "slug": "ryosangata-0044",
+    "categories": [
+      "ryosangata",
+      "tereru"
+    ],
+    "tags": [
+      "量産型",
+      "照れ"
+    ],
+    "reading": [
+      "てれてれ",
+      "もじもじ"
+    ]
+  },
+  {
+    "text": "( ⸝⸝>ᴗ<⸝⸝ )",
+    "slug": "ryosangata-0045",
+    "categories": [
+      "ryosangata",
+      "tereru"
+    ],
+    "tags": [
+      "量産型",
+      "照れ",
+      "きゅるん"
+    ],
+    "reading": [
+      "てれてれ",
+      "きゅん"
+    ]
+  },
+  {
+    "text": "(*ﾉωﾉ)",
+    "slug": "ryosangata-0046",
+    "categories": [
+      "ryosangata",
+      "tereru"
+    ],
+    "tags": [
+      "量産型",
+      "照れ"
+    ],
+    "reading": [
+      "てれてれ",
+      "きゃー"
+    ]
+  },
+  {
+    "text": "( ˶ˊᵕˋ˶ )",
+    "slug": "ryosangata-0047",
+    "categories": [
+      "ryosangata",
+      "tereru"
+    ],
+    "tags": [
+      "量産型",
+      "照れ"
+    ],
+    "reading": [
+      "てれてれ"
+    ]
+  },
+  {
+    "text": "(/ ˶• ᴗ •˶ )/",
+    "slug": "ryosangata-0048",
+    "categories": [
+      "ryosangata",
+      "tereru"
+    ],
+    "tags": [
+      "量産型",
+      "照れ",
+      "もじもじ"
+    ],
+    "reading": [
+      "てれてれ",
+      "もじもじ"
+    ]
+  },
+  {
+    "text": "( ˶ᴗ˶ )",
+    "slug": "ryosangata-0049",
+    "categories": [
+      "ryosangata",
+      "tereru"
+    ],
+    "tags": [
+      "量産型",
+      "照れ"
+    ],
+    "reading": [
+      "てれてれ",
+      "ぽっ"
+    ]
+  },
+  {
+    "text": "( ⸝⸝ᴗ⸝⸝ )",
+    "slug": "ryosangata-0050",
+    "categories": [
+      "ryosangata",
+      "tereru"
+    ],
+    "tags": [
+      "量産型",
+      "照れ",
+      "ほっぺ"
+    ],
+    "reading": [
+      "てれてれ"
+    ]
+  },
+  {
+    "text": "(>///<)",
+    "slug": "ryosangata-0051",
+    "categories": [
+      "ryosangata",
+      "tereru"
+    ],
+    "tags": [
+      "量産型",
+      "照れ"
+    ],
+    "reading": [
+      "てれてれ",
+      "はずかしい"
+    ]
+  },
+  {
+    "text": "( ⸜⸜ᴗ⸝⸝ )",
+    "slug": "ryosangata-0052",
+    "categories": [
+      "ryosangata",
+      "tereru"
+    ],
+    "tags": [
+      "量産型",
+      "照れ",
+      "もじもじ"
+    ],
+    "reading": [
+      "てれてれ",
+      "もじもじ"
+    ]
+  },
+  {
+    "text": "(つ ω `｡)",
+    "slug": "ryosangata-0053",
+    "categories": [
+      "ryosangata",
+      "tereru"
+    ],
+    "tags": [
+      "量産型",
+      "照れ"
+    ],
+    "reading": [
+      "てれてれ",
+      "もじもじ"
+    ]
+  },
+  {
+    "text": "( ˶˃ ᴗ ˂˶ )",
+    "slug": "ryosangata-0054",
+    "categories": [
+      "ryosangata",
+      "tereru"
+    ],
+    "tags": [
+      "量産型",
+      "照れ"
+    ],
+    "reading": [
+      "てれてれ"
+    ]
+  },
+  {
+    "text": "( ˶• ᴗ •˶ )♡",
+    "slug": "ryosangata-0055",
+    "categories": [
+      "ryosangata",
+      "cute"
+    ],
+    "tags": [
+      "量産型",
+      "ハート",
+      "きゅん"
+    ],
+    "reading": [
+      "きゅん",
+      "だいすき"
+    ]
+  },
+  {
+    "text": "(ᵔᴗᵔ)♡",
+    "slug": "ryosangata-0056",
+    "categories": [
+      "ryosangata",
+      "cute"
+    ],
+    "tags": [
+      "量産型",
+      "ハート"
+    ],
+    "reading": [
+      "だいすき",
+      "きゅん"
+    ]
+  },
+  {
+    "text": "♡(ᵔᴗᵔ)♡",
+    "slug": "ryosangata-0057",
+    "categories": [
+      "ryosangata",
+      "cute"
+    ],
+    "tags": [
+      "量産型",
+      "ハート"
+    ],
+    "reading": [
+      "だいすき"
+    ]
+  },
+  {
+    "text": "( ´ ᵕ ` )♡",
+    "slug": "ryosangata-0058",
+    "categories": [
+      "ryosangata",
+      "cute"
+    ],
+    "tags": [
+      "量産型",
+      "ハート"
+    ],
+    "reading": [
+      "だいすき",
+      "きゅん"
+    ]
+  },
+  {
+    "text": "♡⸜( ˶ᵔ ᵕ ᵔ˶ )⸝♡",
+    "slug": "ryosangata-0059",
+    "categories": [
+      "ryosangata",
+      "cute"
+    ],
+    "tags": [
+      "量産型",
+      "ハート"
+    ],
+    "reading": [
+      "だいすき",
+      "きゅん"
+    ]
+  },
+  {
+    "text": "(｡♡ ᵕ ♡｡)",
+    "slug": "ryosangata-0060",
+    "categories": [
+      "ryosangata",
+      "cute"
+    ],
+    "tags": [
+      "量産型",
+      "ハート",
+      "きゅん"
+    ],
+    "reading": [
+      "きゅん",
+      "だいすき"
+    ]
+  },
+  {
+    "text": "( ♡ᴗ♡ )",
+    "slug": "ryosangata-0061",
+    "categories": [
+      "ryosangata",
+      "cute"
+    ],
+    "tags": [
+      "量産型",
+      "ハート",
+      "うっとり"
+    ],
+    "reading": [
+      "うっとり",
+      "だいすき"
+    ]
+  },
+  {
+    "text": "( ˶ᵔ ³ᵔ˶ )",
+    "slug": "ryosangata-0062",
+    "categories": [
+      "ryosangata",
+      "cute"
+    ],
+    "tags": [
+      "量産型",
+      "ハート",
+      "ちゅー"
+    ],
+    "reading": [
+      "ちゅー",
+      "だいすき"
+    ]
+  },
+  {
+    "text": "♡ ( ᵕ ᴗ ᵕ ) ♡",
+    "slug": "ryosangata-0063",
+    "categories": [
+      "ryosangata",
+      "cute"
+    ],
+    "tags": [
+      "量産型",
+      "ハート"
+    ],
+    "reading": [
+      "だいすき"
+    ]
+  },
+  {
+    "text": "( ⸝⸝ᵔ ᵕ ᵔ⸝⸝ )♡",
+    "slug": "ryosangata-0064",
+    "categories": [
+      "ryosangata",
+      "cute"
+    ],
+    "tags": [
+      "量産型",
+      "ハート",
+      "ほっぺ"
+    ],
+    "reading": [
+      "きゅん",
+      "だいすき"
+    ]
+  },
+  {
+    "text": "(づ ᵕ ᵕ )づ♡",
+    "slug": "ryosangata-0065",
+    "categories": [
+      "ryosangata",
+      "cute"
+    ],
+    "tags": [
+      "量産型",
+      "ハート",
+      "ぎゅー"
+    ],
+    "reading": [
+      "ぎゅー",
+      "だいすき"
+    ]
+  },
+  {
+    "text": "(っ´ ᵕ `c)♡",
+    "slug": "ryosangata-0066",
+    "categories": [
+      "ryosangata",
+      "cute"
+    ],
+    "tags": [
+      "量産型",
+      "ハート",
+      "ぎゅー"
+    ],
+    "reading": [
+      "ぎゅー",
+      "だいすき"
+    ]
+  },
+  {
+    "text": "( ♡ ˃ ᵕ ˂ ♡ )",
+    "slug": "ryosangata-0067",
+    "categories": [
+      "ryosangata",
+      "cute"
+    ],
+    "tags": [
+      "量産型",
+      "ハート",
+      "きゅるん"
+    ],
+    "reading": [
+      "きゅるん",
+      "だいすき"
+    ]
+  },
+  {
+    "text": "ෆ( ˶ᵕ ᵕ˶ )ෆ",
+    "slug": "ryosangata-0068",
+    "categories": [
+      "ryosangata",
+      "cute"
+    ],
+    "tags": [
+      "量産型",
+      "ハート"
+    ],
+    "reading": [
+      "だいすき",
+      "きゅん"
+    ]
+  },
+  {
+    "text": "( ˶_ᴗ_˶ )",
+    "slug": "ryosangata-0069",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "お辞儀",
+      "ありがとう"
+    ],
+    "reading": [
+      "ぺこり",
+      "ありがとう"
+    ]
+  },
+  {
+    "text": "⸜( ˶_ᴗ_˶ )⸝",
+    "slug": "ryosangata-0070",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "お辞儀"
+    ],
+    "reading": [
+      "ぺこり",
+      "ありがとう"
+    ]
+  },
+  {
+    "text": "( _ _ )",
+    "slug": "ryosangata-0071",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "お辞儀",
+      "ごめん"
+    ],
+    "reading": [
+      "ぺこり",
+      "ごめん"
+    ]
+  },
+  {
+    "text": "( ˶• ᴗ •˶ )⸝",
+    "slug": "ryosangata-0072",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "お辞儀",
+      "おねがい"
+    ],
+    "reading": [
+      "おねがい",
+      "ぺこり"
+    ]
+  },
+  {
+    "text": "( >ᴗ< )੭ ♡",
+    "slug": "ryosangata-0073",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "おねがい"
+    ],
+    "reading": [
+      "おねがい",
+      "ちょうだい"
+    ]
+  },
+  {
+    "text": "( ⸝⸝_ ᴗ _⸝⸝ )",
+    "slug": "ryosangata-0074",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "お辞儀",
+      "ありがとう"
+    ],
+    "reading": [
+      "ぺこり",
+      "ありがとう"
+    ]
+  },
+  {
+    "text": "( ˶•ᴗ•˶ )/ ♡",
+    "slug": "ryosangata-0075",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "おねがい"
+    ],
+    "reading": [
+      "おねがい",
+      "ちょうだい"
+    ]
+  },
+  {
+    "text": "ﾍ( _ _ ﾍ)",
+    "slug": "ryosangata-0076",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "お辞儀"
+    ],
+    "reading": [
+      "ぺこり",
+      "ごめん"
+    ]
+  },
+  {
+    "text": "( ˶• ᴥ •˶ )",
+    "slug": "ryosangata-0077",
+    "categories": [
+      "ryosangata",
+      "animal"
+    ],
+    "tags": [
+      "量産型",
+      "動物",
+      "ねこ"
+    ],
+    "reading": [
+      "にゃー",
+      "ねこ"
+    ]
+  },
+  {
+    "text": "(=ᵔ ᴥ ᵔ=)",
+    "slug": "ryosangata-0078",
+    "categories": [
+      "ryosangata",
+      "animal"
+    ],
+    "tags": [
+      "量産型",
+      "動物",
+      "ねこ"
+    ],
+    "reading": [
+      "にゃー",
+      "ねこ"
+    ]
+  },
+  {
+    "text": "( ⸝⸝• ᴥ •⸝⸝ )",
+    "slug": "ryosangata-0079",
+    "categories": [
+      "ryosangata",
+      "animal"
+    ],
+    "tags": [
+      "量産型",
+      "動物",
+      "ねこ"
+    ],
+    "reading": [
+      "にゃー",
+      "もふもふ"
+    ]
+  },
+  {
+    "text": "(=•ᴥ•=)",
+    "slug": "ryosangata-0080",
+    "categories": [
+      "ryosangata",
+      "animal"
+    ],
+    "tags": [
+      "量産型",
+      "動物",
+      "ねこ"
+    ],
+    "reading": [
+      "にゃー",
+      "ねこ"
+    ]
+  },
+  {
+    "text": "(=•ᴗ•=)",
+    "slug": "ryosangata-0081",
+    "categories": [
+      "ryosangata",
+      "animal"
+    ],
+    "tags": [
+      "量産型",
+      "動物",
+      "ねこ"
+    ],
+    "reading": [
+      "にゃー",
+      "ねこ"
+    ]
+  },
+  {
+    "text": "( ≡ᵔ ᴥ ᵔ≡ )",
+    "slug": "ryosangata-0082",
+    "categories": [
+      "ryosangata",
+      "animal"
+    ],
+    "tags": [
+      "量産型",
+      "動物",
+      "ねこ"
+    ],
+    "reading": [
+      "にゃー",
+      "もふもふ"
+    ]
+  },
+  {
+    "text": "( ⸜• ᴥ •⸝ )",
+    "slug": "ryosangata-0083",
+    "categories": [
+      "ryosangata",
+      "animal"
+    ],
+    "tags": [
+      "量産型",
+      "動物",
+      "ねこ"
+    ],
+    "reading": [
+      "にゃー"
+    ]
+  },
+  {
+    "text": "(=^･ ᵕ ･^=)",
+    "slug": "ryosangata-0084",
+    "categories": [
+      "ryosangata",
+      "animal"
+    ],
+    "tags": [
+      "量産型",
+      "動物",
+      "ねこ"
+    ],
+    "reading": [
+      "にゃー",
+      "ねこ"
+    ]
+  },
+  {
+    "text": "(=ᵔ ᴥ ᵔ=)",
+    "slug": "ryosangata-0085",
+    "categories": [
+      "ryosangata",
+      "animal"
+    ],
+    "tags": [
+      "量産型",
+      "動物",
+      "ねこ"
+    ],
+    "reading": [
+      "にゃー"
+    ]
+  },
+  {
+    "text": "( ᵕ ﹏ ᵕ )",
+    "slug": "ryosangata-0086",
+    "categories": [
+      "ryosangata",
+      "animal"
+    ],
+    "tags": [
+      "量産型",
+      "動物",
+      "うさぎ"
+    ],
+    "reading": [
+      "うさぎ",
+      "もふもふ"
+    ]
+  },
+  {
+    "text": "( ⸝⸝• ᴥ •⸝⸝ )",
+    "slug": "ryosangata-0087",
+    "categories": [
+      "ryosangata",
+      "animal"
+    ],
+    "tags": [
+      "量産型",
+      "動物",
+      "いぬ"
+    ],
+    "reading": [
+      "わんわん",
+      "もふもふ"
+    ]
+  },
+  {
+    "text": "( ´• ᴥ •` )",
+    "slug": "ryosangata-0088",
+    "categories": [
+      "ryosangata",
+      "animal"
+    ],
+    "tags": [
+      "量産型",
+      "動物",
+      "いぬ"
+    ],
+    "reading": [
+      "わんわん",
+      "もふもふ"
+    ]
+  },
+  {
+    "text": "ʕ ᵔ ᴥ ᵔ ʔ",
+    "slug": "ryosangata-0089",
+    "categories": [
+      "ryosangata",
+      "animal"
+    ],
+    "tags": [
+      "量産型",
+      "動物",
+      "くま"
+    ],
+    "reading": [
+      "くま",
+      "もふもふ"
+    ]
+  },
+  {
+    "text": "ʕ •ᴥ• ʔ",
+    "slug": "ryosangata-0090",
+    "categories": [
+      "ryosangata",
+      "animal"
+    ],
+    "tags": [
+      "量産型",
+      "動物",
+      "くま"
+    ],
+    "reading": [
+      "くま"
+    ]
+  },
+  {
+    "text": "( ˙ᵕ˙ )",
+    "slug": "ryosangata-0091",
+    "categories": [
+      "ryosangata",
+      "animal"
+    ],
+    "tags": [
+      "量産型",
+      "動物",
+      "うさぎ"
+    ],
+    "reading": [
+      "うさぎ"
+    ]
+  },
+  {
+    "text": "໒( ᵔ ᵕ ᵔ )ʔ",
+    "slug": "ryosangata-0092",
+    "categories": [
+      "ryosangata",
+      "animal"
+    ],
+    "tags": [
+      "量産型",
+      "動物",
+      "くま"
+    ],
+    "reading": [
+      "くま",
+      "もふもふ"
+    ]
+  },
+  {
+    "text": "( ⌒ ᴥ ⌒ )",
+    "slug": "ryosangata-0093",
+    "categories": [
+      "ryosangata",
+      "animal"
+    ],
+    "tags": [
+      "量産型",
+      "動物",
+      "いぬ"
+    ],
+    "reading": [
+      "わんわん"
+    ]
+  },
+  {
+    "text": "( ⸝⸝ᵕ ﹏ ᵕ⸝⸝ )",
+    "slug": "ryosangata-0094",
+    "categories": [
+      "ryosangata",
+      "animal"
+    ],
+    "tags": [
+      "量産型",
+      "動物",
+      "うさぎ"
+    ],
+    "reading": [
+      "うさぎ",
+      "もふもふ"
+    ]
+  },
+  {
+    "text": "( ´ᴥ` )",
+    "slug": "ryosangata-0095",
+    "categories": [
+      "ryosangata",
+      "animal"
+    ],
+    "tags": [
+      "量産型",
+      "動物"
+    ],
+    "reading": [
+      "もふもふ"
+    ]
+  },
+  {
+    "text": "( ᵕ ﹏ ᵕ )",
+    "slug": "ryosangata-0096",
+    "categories": [
+      "ryosangata",
+      "cry"
+    ],
+    "tags": [
+      "量産型",
+      "泣く",
+      "うるうる"
+    ],
+    "reading": [
+      "うるうる",
+      "ぴえん"
+    ]
+  },
+  {
+    "text": "( ；ᵕ；)",
+    "slug": "ryosangata-0097",
+    "categories": [
+      "ryosangata",
+      "cry"
+    ],
+    "tags": [
+      "量産型",
+      "泣く"
+    ],
+    "reading": [
+      "ぐすん",
+      "うるうる"
+    ]
+  },
+  {
+    "text": "(｡>﹏<｡)",
+    "slug": "ryosangata-0098",
+    "categories": [
+      "ryosangata",
+      "cry"
+    ],
+    "tags": [
+      "量産型",
+      "泣く"
+    ],
+    "reading": [
+      "うるうる",
+      "えーん"
+    ]
+  },
+  {
+    "text": "( ᵒ ﹏ ᵒ )",
+    "slug": "ryosangata-0099",
+    "categories": [
+      "ryosangata",
+      "cry"
+    ],
+    "tags": [
+      "量産型",
+      "泣く",
+      "ぴえん"
+    ],
+    "reading": [
+      "うるうる",
+      "ぴえん"
+    ]
+  },
+  {
+    "text": "( ｡• ﹏ •｡)",
+    "slug": "ryosangata-0100",
+    "categories": [
+      "ryosangata",
+      "cry"
+    ],
+    "tags": [
+      "量産型",
+      "泣く",
+      "うるうる"
+    ],
+    "reading": [
+      "うるうる",
+      "ぐすん"
+    ]
+  },
+  {
+    "text": "( >︿< )",
+    "slug": "ryosangata-0101",
+    "categories": [
+      "ryosangata",
+      "cry"
+    ],
+    "tags": [
+      "量産型",
+      "泣く"
+    ],
+    "reading": [
+      "えーん",
+      "うるうる"
+    ]
+  },
+  {
+    "text": "( ; ﹏ ; )",
+    "slug": "ryosangata-0102",
+    "categories": [
+      "ryosangata",
+      "cry"
+    ],
+    "tags": [
+      "量産型",
+      "泣く",
+      "ぴえん"
+    ],
+    "reading": [
+      "ぴえん",
+      "うるうる"
+    ]
+  },
+  {
+    "text": "(｡ŏ﹏ŏ)",
+    "slug": "ryosangata-0103",
+    "categories": [
+      "ryosangata",
+      "cry"
+    ],
+    "tags": [
+      "量産型",
+      "泣く"
+    ],
+    "reading": [
+      "うるうる",
+      "ぴえん"
+    ]
+  },
+  {
+    "text": "( ˶• ᴗ •˶ );",
+    "slug": "ryosangata-0104",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "汗",
+      "あせあせ"
+    ],
+    "reading": [
+      "あせあせ",
+      "たじたじ"
+    ]
+  },
+  {
+    "text": "( ´• ᴗ •` ; )",
+    "slug": "ryosangata-0105",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "汗"
+    ],
+    "reading": [
+      "あせあせ",
+      "たじたじ"
+    ]
+  },
+  {
+    "text": "( >ᴗ< ;)",
+    "slug": "ryosangata-0106",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "汗",
+      "あせあせ"
+    ],
+    "reading": [
+      "あせあせ"
+    ]
+  },
+  {
+    "text": "( ; ´ ᵕ ` )",
+    "slug": "ryosangata-0107",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "汗"
+    ],
+    "reading": [
+      "あせあせ",
+      "たじたじ"
+    ]
+  },
+  {
+    "text": "( ˶ᵕ ᵕ˶ ;)",
+    "slug": "ryosangata-0108",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "汗"
+    ],
+    "reading": [
+      "あせあせ"
+    ]
+  },
+  {
+    "text": "( ˶• ᴗ •˶ )/",
+    "slug": "ryosangata-0109",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "バイバイ",
+      "おーい"
+    ],
+    "reading": [
+      "ばいばい",
+      "おーい"
+    ]
+  },
+  {
+    "text": "ﾉ( ˶ᵔ ᵕ ᵔ˶ )",
+    "slug": "ryosangata-0110",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "バイバイ"
+    ],
+    "reading": [
+      "ばいばい",
+      "やっほー"
+    ]
+  },
+  {
+    "text": "( ᵔ ᵕ ᵔ )ﾉ",
+    "slug": "ryosangata-0111",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "バイバイ",
+      "おーい"
+    ],
+    "reading": [
+      "ばいばい",
+      "おーい"
+    ]
+  },
+  {
+    "text": "⸜( ´ ᵕ ` )⸝",
+    "slug": "ryosangata-0112",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "ばんざい"
+    ],
+    "reading": [
+      "わーい",
+      "やったー"
+    ]
+  },
+  {
+    "text": "ヽ( ˶• ᴗ •˶ )ﾉ",
+    "slug": "ryosangata-0113",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "ばんざい"
+    ],
+    "reading": [
+      "わーい",
+      "やったー"
+    ]
+  },
+  {
+    "text": "( ˃ ᵕ ˂ )ﾉ♡",
+    "slug": "ryosangata-0114",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "バイバイ",
+      "ハート"
+    ],
+    "reading": [
+      "ばいばい",
+      "だいすき"
+    ]
+  },
+  {
+    "text": "＼( ˶ᵔ ᵕ ᵔ˶ )／",
+    "slug": "ryosangata-0115",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "ばんざい"
+    ],
+    "reading": [
+      "わーい",
+      "やったー"
+    ]
+  },
+  {
+    "text": "( づ ᵕ ᵕ )づ",
+    "slug": "ryosangata-0116",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "ぎゅー"
+    ],
+    "reading": [
+      "ぎゅー",
+      "ハグ"
+    ]
+  },
+  {
+    "text": "( ˶• ᴗ •˶ )⭒",
+    "slug": "ryosangata-0117",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "キラキラ"
+    ],
+    "reading": [
+      "きらきら",
+      "にこにこ"
+    ]
+  },
+  {
+    "text": "⊹ ( ´ ᵕ ` ) ⊹",
+    "slug": "ryosangata-0118",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "キラキラ"
+    ],
+    "reading": [
+      "きらきら"
+    ]
+  },
+  {
+    "text": "✦ ( ˶ˊ ᵕ ˋ˶ ) ✦",
+    "slug": "ryosangata-0119",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "キラキラ",
+      "きゅるん"
+    ],
+    "reading": [
+      "きらきら",
+      "きゅるん"
+    ]
+  },
+  {
+    "text": "( ᵔ ᵕ ᵔ )♡⸝⸝",
+    "slug": "ryosangata-0120",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "デコ",
+      "ハート"
+    ],
+    "reading": [
+      "にこにこ",
+      "だいすき"
+    ]
+  },
+  {
+    "text": "⟡ ( ˶• ᴗ •˶ ) ⟡",
+    "slug": "ryosangata-0121",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "キラキラ"
+    ],
+    "reading": [
+      "きらきら"
+    ]
+  },
+  {
+    "text": "( >ᴗ< )☆",
+    "slug": "ryosangata-0122",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "キラキラ",
+      "きゅるん"
+    ],
+    "reading": [
+      "きらきら",
+      "きゅるん"
+    ]
+  },
+  {
+    "text": "｡˚( ˶• ᴗ •˶ )˚｡",
+    "slug": "ryosangata-0123",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "キラキラ"
+    ],
+    "reading": [
+      "きらきら"
+    ]
+  },
+  {
+    "text": "❀ ( ´ ᵕ ` ) ❀",
+    "slug": "ryosangata-0124",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "デコ",
+      "お花"
+    ],
+    "reading": [
+      "にこにこ",
+      "おはな"
+    ]
+  },
+  {
+    "text": "( ˶• ᴗ •˶ )🎀",
+    "slug": "ryosangata-0125",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "絵文字",
+      "にこにこ"
+    ],
+    "reading": [
+      "にこにこ",
+      "りぼん"
+    ]
+  },
+  {
+    "text": "(ᵔᴗᵔ)💕",
+    "slug": "ryosangata-0126",
+    "categories": [
+      "ryosangata",
+      "cute"
+    ],
+    "tags": [
+      "量産型",
+      "絵文字",
+      "ハート"
+    ],
+    "reading": [
+      "だいすき",
+      "きゅん"
+    ]
+  },
+  {
+    "text": "♡( ´ ᵕ ` )🤍",
+    "slug": "ryosangata-0127",
+    "categories": [
+      "ryosangata",
+      "cute"
+    ],
+    "tags": [
+      "量産型",
+      "絵文字",
+      "ハート"
+    ],
+    "reading": [
+      "だいすき"
+    ]
+  },
+  {
+    "text": "( >ᴗ< )🎀",
+    "slug": "ryosangata-0128",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "絵文字",
+      "きゅるん"
+    ],
+    "reading": [
+      "きゅるん",
+      "りぼん"
+    ]
+  },
+  {
+    "text": "( ˶ˊ ᵕ ˋ˶ )💗",
+    "slug": "ryosangata-0129",
+    "categories": [
+      "ryosangata",
+      "cute"
+    ],
+    "tags": [
+      "量産型",
+      "絵文字",
+      "ハート",
+      "にこにこ"
+    ],
+    "reading": [
+      "にこにこ",
+      "だいすき"
+    ]
+  },
+  {
+    "text": "( ⸝⸝•ᴗ•⸝⸝ )🌷",
+    "slug": "ryosangata-0130",
+    "categories": [
+      "ryosangata",
+      "tereru"
+    ],
+    "tags": [
+      "量産型",
+      "絵文字",
+      "照れ"
+    ],
+    "reading": [
+      "てれてれ",
+      "おはな"
+    ]
+  },
+  {
+    "text": "(=•ᴥ•=)🐾",
+    "slug": "ryosangata-0131",
+    "categories": [
+      "ryosangata",
+      "animal"
+    ],
+    "tags": [
+      "量産型",
+      "絵文字",
+      "動物",
+      "ねこ"
+    ],
+    "reading": [
+      "にゃー",
+      "ねこ"
+    ]
+  },
+  {
+    "text": "( ´ ᵕ ` )🍓",
+    "slug": "ryosangata-0132",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "絵文字",
+      "にこにこ"
+    ],
+    "reading": [
+      "にこにこ",
+      "いちご"
+    ]
+  },
+  {
+    "text": "( ˃ ᵕ ˂ )💫",
+    "slug": "ryosangata-0133",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "絵文字",
+      "きゅるん",
+      "キラキラ"
+    ],
+    "reading": [
+      "きゅるん",
+      "きらきら"
+    ]
+  },
+  {
+    "text": "⸜( ˶ᵔ ᵕ ᵔ˶ )⸝🎀",
+    "slug": "ryosangata-0134",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "絵文字",
+      "ばんざい"
+    ],
+    "reading": [
+      "わーい",
+      "りぼん"
+    ]
+  },
+  {
+    "text": "( ｡• ᵕ •｡)💧",
+    "slug": "ryosangata-0135",
+    "categories": [
+      "ryosangata",
+      "cry"
+    ],
+    "tags": [
+      "量産型",
+      "絵文字",
+      "うるうる",
+      "泣く"
+    ],
+    "reading": [
+      "うるうる",
+      "ぴえん"
+    ]
+  },
+  {
+    "text": "(づ ᵕ ᵕ )づ💗",
+    "slug": "ryosangata-0136",
+    "categories": [
+      "ryosangata",
+      "cute"
+    ],
+    "tags": [
+      "量産型",
+      "絵文字",
+      "ハート",
+      "ぎゅー"
+    ],
+    "reading": [
+      "ぎゅー",
+      "だいすき"
+    ]
+  },
+  {
+    "text": "( ᵔᴗᵔ )⭐",
+    "slug": "ryosangata-0137",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "絵文字",
+      "キラキラ"
+    ],
+    "reading": [
+      "きらきら",
+      "にこにこ"
+    ]
+  },
+  {
+    "text": "( ⸝⸝>ᴗ<⸝⸝ )🎀",
+    "slug": "ryosangata-0138",
+    "categories": [
+      "ryosangata",
+      "tereru"
+    ],
+    "tags": [
+      "量産型",
+      "絵文字",
+      "照れ"
+    ],
+    "reading": [
+      "てれてれ",
+      "りぼん"
+    ]
+  },
+  {
+    "text": "( ˶ᵕ ᵕ˶ )🍒",
+    "slug": "ryosangata-0139",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "絵文字",
+      "にこにこ"
+    ],
+    "reading": [
+      "にこにこ",
+      "さくらんぼ"
+    ]
+  },
+  {
+    "text": "( •ᴗ• )੭🤍",
+    "slug": "ryosangata-0140",
+    "categories": [
+      "ryosangata",
+      "cute"
+    ],
+    "tags": [
+      "量産型",
+      "絵文字",
+      "ハート",
+      "おねがい"
+    ],
+    "reading": [
+      "おねがい",
+      "だいすき"
+    ]
+  },
+  {
+    "text": "o( ; ω ; )o",
+    "slug": "ryosangata-0141",
+    "categories": [
+      "ryosangata",
+      "cry"
+    ],
+    "tags": [
+      "量産型",
+      "うるうる",
+      "泣く"
+    ],
+    "reading": [
+      "うるうる",
+      "ぴえん"
+    ]
+  },
+  {
+    "text": "( ; ᵕ ; )♡",
+    "slug": "ryosangata-0142",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "うるうる",
+      "ハート"
+    ],
+    "reading": [
+      "うるうる",
+      "あまえ"
+    ]
+  },
+  {
+    "text": "( ╥ω╥ )",
+    "slug": "ryosangata-0143",
+    "categories": [
+      "ryosangata",
+      "cry"
+    ],
+    "tags": [
+      "量産型",
+      "うるうる",
+      "泣く"
+    ],
+    "reading": [
+      "うるうる",
+      "ぐすん"
+    ]
+  },
+  {
+    "text": "( ; ﹏ ; )",
+    "slug": "ryosangata-0144",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "うるうる",
+      "ぴえん"
+    ],
+    "reading": [
+      "うるうる",
+      "ぴえん"
+    ]
+  },
+  {
+    "text": "( っ ; ω ; c)",
+    "slug": "ryosangata-0145",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "うるうる",
+      "あまえ"
+    ],
+    "reading": [
+      "うるうる",
+      "あまえ"
+    ]
+  },
+  {
+    "text": "( ᵕ ﹏ ᵕ )っ",
+    "slug": "ryosangata-0146",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "うるうる"
+    ],
+    "reading": [
+      "うるうる",
+      "ぴえん"
+    ]
+  },
+  {
+    "text": "｡ﾟ( ; ᵕ ; )ﾟ｡",
+    "slug": "ryosangata-0147",
+    "categories": [
+      "ryosangata",
+      "cry"
+    ],
+    "tags": [
+      "量産型",
+      "うるうる",
+      "泣く"
+    ],
+    "reading": [
+      "えーん",
+      "うるうる"
+    ]
+  },
+  {
+    "text": "( ⸝⸝ ; ω ; ⸝⸝ )",
+    "slug": "ryosangata-0148",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "うるうる",
+      "ほっぺ"
+    ],
+    "reading": [
+      "うるうる",
+      "ぴえん"
+    ]
+  },
+  {
+    "text": "( ´ ; ω ; ` )",
+    "slug": "ryosangata-0149",
+    "categories": [
+      "ryosangata",
+      "cry"
+    ],
+    "tags": [
+      "量産型",
+      "うるうる",
+      "泣く"
+    ],
+    "reading": [
+      "うるうる",
+      "ぐすん"
+    ]
+  },
+  {
+    "text": "( ; ◡ ; )",
+    "slug": "ryosangata-0150",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "うるうる"
+    ],
+    "reading": [
+      "うるうる"
+    ]
+  },
+  {
+    "text": "( > ﹏ < )｡ﾟ",
+    "slug": "ryosangata-0151",
+    "categories": [
+      "ryosangata",
+      "cry"
+    ],
+    "tags": [
+      "量産型",
+      "うるうる",
+      "ぴえん"
+    ],
+    "reading": [
+      "ぴえん",
+      "えーん"
+    ]
+  },
+  {
+    "text": "( ; - ; )ﾉ",
+    "slug": "ryosangata-0152",
+    "categories": [
+      "ryosangata"
+    ],
+    "tags": [
+      "量産型",
+      "うるうる"
+    ],
+    "reading": [
+      "うるうる",
+      "ぴえん"
+    ]
+  },
+  {
+    "text": "(♡´▽`♡)",
+    "slug": "suki-0001",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "大好き",
+      "ハート"
+    ],
+    "reading": [
+      "だいすき",
+      "らぶ"
+    ]
+  },
+  {
+    "text": "(人´∀`*)♡",
+    "slug": "suki-0002",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "大好き",
+      "ハート"
+    ],
+    "reading": [
+      "だいすき"
+    ]
+  },
+  {
+    "text": "♡大好き♡(◍•ᴗ•◍)",
+    "slug": "suki-0003",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "大好き",
+      "ハート"
+    ],
+    "reading": [
+      "だいすき",
+      "らぶ"
+    ]
+  },
+  {
+    "text": "(◍•ᗜ•◍)♡好き",
+    "slug": "suki-0004",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "大好き"
+    ],
+    "reading": [
+      "だいすき",
+      "すき"
+    ]
+  },
+  {
+    "text": "(*˘︶˘*)♡だいすき",
+    "slug": "suki-0005",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "大好き",
+      "ハート"
+    ],
+    "reading": [
+      "だいすき"
+    ]
+  },
+  {
+    "text": "♡(˃ ᵕ ˂ )♡",
+    "slug": "suki-0006",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "大好き",
+      "ハート"
+    ],
+    "reading": [
+      "だいすき",
+      "きゅん"
+    ]
+  },
+  {
+    "text": "(♡>ω<♡)",
+    "slug": "suki-0007",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "大好き",
+      "ハート"
+    ],
+    "reading": [
+      "だいすき",
+      "らぶ"
+    ]
+  },
+  {
+    "text": "ぜんぶ好き♡(*´ω`*)",
+    "slug": "suki-0008",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "大好き"
+    ],
+    "reading": [
+      "だいすき",
+      "すき"
+    ]
+  },
+  {
+    "text": "(♡˘▿˘♡)",
+    "slug": "suki-0009",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "大好き",
+      "ハート"
+    ],
+    "reading": [
+      "だいすき"
+    ]
+  },
+  {
+    "text": "♡〜(´▽`〜) 大好き",
+    "slug": "suki-0010",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "大好き"
+    ],
+    "reading": [
+      "だいすき",
+      "らぶ"
+    ]
+  },
+  {
+    "text": "(*♡∀♡)",
+    "slug": "suki-0011",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "大好き",
+      "ハート"
+    ],
+    "reading": [
+      "だいすき",
+      "らぶ"
+    ]
+  },
+  {
+    "text": "ෆ(˘ ᵕ ˘)ෆ好き",
+    "slug": "suki-0012",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "大好き",
+      "ハート"
+    ],
+    "reading": [
+      "だいすき",
+      "すき"
+    ]
+  },
+  {
+    "text": "(´｡• ᵕ •｡`)♡ずっと好き",
+    "slug": "suki-0013",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "大好き"
+    ],
+    "reading": [
+      "だいすき",
+      "ずっとすき"
+    ]
+  },
+  {
+    "text": "あのね…好きです(/ω＼)♡",
+    "slug": "suki-0014",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "告白",
+      "ハート"
+    ],
+    "reading": [
+      "こくはく",
+      "すきです"
+    ]
+  },
+  {
+    "text": "(*ﾉωﾉ)♡好きです",
+    "slug": "suki-0015",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "告白"
+    ],
+    "reading": [
+      "こくはく",
+      "すきです"
+    ]
+  },
+  {
+    "text": "(〃▽〃)…す、好き",
+    "slug": "suki-0016",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "告白"
+    ],
+    "reading": [
+      "こくはく",
+      "すき"
+    ]
+  },
+  {
+    "text": "好きです♡(⁄ ⁄•⁄ω⁄•⁄ ⁄)",
+    "slug": "suki-0017",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "告白",
+      "ハート"
+    ],
+    "reading": [
+      "こくはく",
+      "すきです"
+    ]
+  },
+  {
+    "text": "ずっと好きでした(´•ω•`)♡",
+    "slug": "suki-0018",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "告白"
+    ],
+    "reading": [
+      "こくはく",
+      "すきでした"
+    ]
+  },
+  {
+    "text": "(*/▽＼*)好きっ",
+    "slug": "suki-0019",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "告白"
+    ],
+    "reading": [
+      "こくはく",
+      "すき"
+    ]
+  },
+  {
+    "text": "つき合ってください♡(*ﾉ▽ﾉ)",
+    "slug": "suki-0020",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "告白",
+      "ハート"
+    ],
+    "reading": [
+      "こくはく",
+      "つきあって"
+    ]
+  },
+  {
+    "text": "( //ω// )あなたが好き",
+    "slug": "suki-0021",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "告白"
+    ],
+    "reading": [
+      "こくはく",
+      "すき"
+    ]
+  },
+  {
+    "text": "好き…かも(*´∀`*)♡",
+    "slug": "suki-0022",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "告白"
+    ],
+    "reading": [
+      "こくはく",
+      "すきかも"
+    ]
+  },
+  {
+    "text": "(〃’▽’〃)好きになっちゃった",
+    "slug": "suki-0023",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "告白"
+    ],
+    "reading": [
+      "こくはく",
+      "すき"
+    ]
+  },
+  {
+    "text": "ヽ(♡‿♡)ノ",
+    "slug": "suki-0024",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "ハート",
+      "投げハート"
+    ],
+    "reading": [
+      "はーと",
+      "らぶ"
+    ]
+  },
+  {
+    "text": "(ﾉ´ヮ`)ﾉ*: ♡",
+    "slug": "suki-0025",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "ハート",
+      "投げハート"
+    ],
+    "reading": [
+      "はーとなげ",
+      "らぶ"
+    ]
+  },
+  {
+    "text": "(♡´∀`)ﾉ♡",
+    "slug": "suki-0026",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "ハート",
+      "投げハート"
+    ],
+    "reading": [
+      "はーとなげ",
+      "らぶ"
+    ]
+  },
+  {
+    "text": "(*´▽`)ﾉ♡〜",
+    "slug": "suki-0027",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "ハート",
+      "投げハート"
+    ],
+    "reading": [
+      "はーとなげ",
+      "らぶ"
+    ]
+  },
+  {
+    "text": "♡〜ヽ(>ω<*)",
+    "slug": "suki-0028",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "ハート",
+      "投げハート"
+    ],
+    "reading": [
+      "はーとなげ",
+      "らぶ"
+    ]
+  },
+  {
+    "text": "( ˘ ³˘)ﾉ♡",
+    "slug": "suki-0029",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "投げチュー",
+      "ハート"
+    ],
+    "reading": [
+      "なげちゅー",
+      "ちゅー"
+    ]
+  },
+  {
+    "text": "(*ﾟ∀ﾟ)ﾉ⌒♡",
+    "slug": "suki-0030",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "投げチュー",
+      "ハート"
+    ],
+    "reading": [
+      "なげちゅー",
+      "ちゅー"
+    ]
+  },
+  {
+    "text": "ε≡≡ﾍ( ´∀`)ﾉ♡",
+    "slug": "suki-0031",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "ハート",
+      "投げハート"
+    ],
+    "reading": [
+      "はーとなげ",
+      "らぶ"
+    ]
+  },
+  {
+    "text": "(´ε｀ )ﾉ⌒♡",
+    "slug": "suki-0032",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "投げチュー",
+      "ハート"
+    ],
+    "reading": [
+      "なげちゅー",
+      "ちゅー"
+    ]
+  },
+  {
+    "text": "ヽ(*´∀`)ﾉ♡♡♡",
+    "slug": "suki-0033",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "ハート",
+      "投げハート"
+    ],
+    "reading": [
+      "はーとなげ",
+      "らぶ"
+    ]
+  },
+  {
+    "text": "(っ˘з˘)ﾉ⌒♡",
+    "slug": "suki-0034",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "投げチュー",
+      "ちゅー"
+    ],
+    "reading": [
+      "なげちゅー",
+      "ちゅー"
+    ]
+  },
+  {
+    "text": "♡⸜(*ˊᵕˋ*)⸝♡",
+    "slug": "suki-0035",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "ハート",
+      "投げハート"
+    ],
+    "reading": [
+      "はーと",
+      "らぶ"
+    ]
+  },
+  {
+    "text": "ヽ(´∀`)ﾉ.｡.:*♡",
+    "slug": "suki-0036",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "ハート",
+      "投げハート"
+    ],
+    "reading": [
+      "はーとなげ",
+      "らぶ"
+    ]
+  },
+  {
+    "text": "(*´ω`*)♡デレデレ",
+    "slug": "suki-0037",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "デレデレ",
+      "ハート"
+    ],
+    "reading": [
+      "でれでれ",
+      "めろめろ"
+    ]
+  },
+  {
+    "text": "(♡-_-♡)",
+    "slug": "suki-0038",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "デレデレ",
+      "メロメロ"
+    ],
+    "reading": [
+      "めろめろ",
+      "うっとり"
+    ]
+  },
+  {
+    "text": "(*♥ω♥*)",
+    "slug": "suki-0039",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "メロメロ",
+      "ハート"
+    ],
+    "reading": [
+      "めろめろ",
+      "うっとり"
+    ]
+  },
+  {
+    "text": "(灬♥ω♥灬)",
+    "slug": "suki-0040",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "メロメロ",
+      "ハート"
+    ],
+    "reading": [
+      "めろめろ",
+      "うっとり"
+    ]
+  },
+  {
+    "text": "(♡ω♡ )〜♡",
+    "slug": "suki-0041",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "デレデレ",
+      "ハート"
+    ],
+    "reading": [
+      "でれでれ",
+      "めろめろ"
+    ]
+  },
+  {
+    "text": "(´∀｀*)ウフフ♡",
+    "slug": "suki-0042",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "デレデレ"
+    ],
+    "reading": [
+      "でれでれ",
+      "うふふ"
+    ]
+  },
+  {
+    "text": "(*ﾉ∀`*)♡〜",
+    "slug": "suki-0043",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "デレデレ"
+    ],
+    "reading": [
+      "でれでれ",
+      "えへへ"
+    ]
+  },
+  {
+    "text": "(◍♡ᴗ♡◍)♡",
+    "slug": "suki-0044",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "メロメロ",
+      "ハート"
+    ],
+    "reading": [
+      "めろめろ",
+      "うっとり"
+    ]
+  },
+  {
+    "text": "( ⓛ ω ⓛ *)♡もうメロメロ",
+    "slug": "suki-0045",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "メロメロ"
+    ],
+    "reading": [
+      "めろめろ"
+    ]
+  },
+  {
+    "text": "(*ˆ ³ˆ*)♡",
+    "slug": "suki-0046",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "デレデレ",
+      "ちゅー"
+    ],
+    "reading": [
+      "でれでれ",
+      "ちゅー"
+    ]
+  },
+  {
+    "text": "(*˘∀˘*)。o○♡",
+    "slug": "suki-0047",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "デレデレ",
+      "ハート"
+    ],
+    "reading": [
+      "でれでれ",
+      "うっとり"
+    ]
+  },
+  {
+    "text": "(๑♡∀♡๑)",
+    "slug": "suki-0048",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "メロメロ",
+      "ハート"
+    ],
+    "reading": [
+      "めろめろ",
+      "うっとり"
+    ]
+  },
+  {
+    "text": "♡(*´∀`*)人(*´∀`*)♡",
+    "slug": "suki-0049",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "ラブラブ",
+      "ハート"
+    ],
+    "reading": [
+      "らぶらぶ",
+      "らぶ"
+    ]
+  },
+  {
+    "text": "(*˘ ³˘)♥愛してる",
+    "slug": "suki-0050",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "愛してる",
+      "ハート"
+    ],
+    "reading": [
+      "あいしてる",
+      "らぶ"
+    ]
+  },
+  {
+    "text": "(´｡• ω •｡`)♡I LOVE YOU",
+    "slug": "suki-0051",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "愛してる",
+      "LOVE"
+    ],
+    "reading": [
+      "らぶ",
+      "あいしてる"
+    ]
+  },
+  {
+    "text": "ラブラブ♡(◍•ᴗ•◍)♡",
+    "slug": "suki-0052",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "ラブラブ"
+    ],
+    "reading": [
+      "らぶらぶ",
+      "らぶ"
+    ]
+  },
+  {
+    "text": "(づ｡◕‿‿◕｡)づ♡",
+    "slug": "suki-0053",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "ラブラブ",
+      "ぎゅっ"
+    ],
+    "reading": [
+      "らぶらぶ",
+      "ぎゅー"
+    ]
+  },
+  {
+    "text": "(*´╰╯`*)♡〜ラブ",
+    "slug": "suki-0054",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "ラブラブ",
+      "ハート"
+    ],
+    "reading": [
+      "らぶらぶ",
+      "らぶ"
+    ]
+  },
+  {
+    "text": "♡LOVE♡(*ˊᵕˋ*)",
+    "slug": "suki-0055",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "LOVE",
+      "ハート"
+    ],
+    "reading": [
+      "らぶ"
+    ]
+  },
+  {
+    "text": "(ෆ˙ᵕ˙ෆ)愛してる",
+    "slug": "suki-0056",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "愛してる",
+      "ハート"
+    ],
+    "reading": [
+      "あいしてる",
+      "らぶ"
+    ]
+  },
+  {
+    "text": "ふたりで♡(っ´ω`c)♡",
+    "slug": "suki-0057",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "ラブラブ"
+    ],
+    "reading": [
+      "らぶらぶ",
+      "ふたり"
+    ]
+  },
+  {
+    "text": "(´▽`*)ﾉ♡ﾉ(*´▽`)",
+    "slug": "suki-0058",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "ラブラブ",
+      "ハート"
+    ],
+    "reading": [
+      "らぶらぶ",
+      "りょうおもい"
+    ]
+  },
+  {
+    "text": "ずっと一緒♡(*´ω`*)",
+    "slug": "suki-0059",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "ラブラブ"
+    ],
+    "reading": [
+      "らぶらぶ",
+      "いっしょ"
+    ]
+  },
+  {
+    "text": "(´っ•ω•c`)♡LOVE",
+    "slug": "suki-0060",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "LOVE",
+      "ぎゅっ"
+    ],
+    "reading": [
+      "らぶ",
+      "ぎゅー"
+    ]
+  },
+  {
+    "text": "(*ﾉ∀`*) ♡きゅん",
+    "slug": "suki-0061",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "きゅん",
+      "ハート"
+    ],
+    "reading": [
+      "きゅん",
+      "ときめき"
+    ]
+  },
+  {
+    "text": "(♡˙︶˙♡)きゅんっ",
+    "slug": "suki-0062",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "きゅん",
+      "ハート"
+    ],
+    "reading": [
+      "きゅん"
+    ]
+  },
+  {
+    "text": "(｡♡‿♡｡)好きすぎる",
+    "slug": "suki-0063",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "きゅん",
+      "大好き"
+    ],
+    "reading": [
+      "きゅん",
+      "すきすぎ"
+    ]
+  },
+  {
+    "text": "(♡´艸`)きゅんとした",
+    "slug": "suki-0064",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "きゅん"
+    ],
+    "reading": [
+      "きゅん",
+      "ときめき"
+    ]
+  },
+  {
+    "text": "(>///<)♡きゅんが止まらない",
+    "slug": "suki-0065",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "きゅん"
+    ],
+    "reading": [
+      "きゅん",
+      "ときめき"
+    ]
+  },
+  {
+    "text": "♡(๑ˆ ﻌ ˆ๑)♡",
+    "slug": "suki-0066",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "きゅん",
+      "ハート"
+    ],
+    "reading": [
+      "きゅん",
+      "ときめき"
+    ]
+  },
+  {
+    "text": "(*˃ ᵕ ˂ *)♡ときめき",
+    "slug": "suki-0067",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "きゅん"
+    ],
+    "reading": [
+      "ときめき",
+      "きゅん"
+    ]
+  },
+  {
+    "text": "( ๑>ᴗ<๑)♡",
+    "slug": "suki-0068",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "きゅん",
+      "ハート"
+    ],
+    "reading": [
+      "きゅん",
+      "ときめき"
+    ]
+  },
+  {
+    "text": "胸きゅん♡(*´꒳`*)",
+    "slug": "suki-0069",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "きゅん"
+    ],
+    "reading": [
+      "むねきゅん",
+      "きゅん"
+    ]
+  },
+  {
+    "text": "(*°∀°)=3♡好き",
+    "slug": "suki-0070",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "きゅん",
+      "大好き"
+    ],
+    "reading": [
+      "きゅん",
+      "すき"
+    ]
+  },
+  {
+    "text": "(♡ᗜ♡)きゅんです",
+    "slug": "suki-0071",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "きゅん",
+      "ハート"
+    ],
+    "reading": [
+      "きゅん",
+      "きゅんです"
+    ]
+  },
+  {
+    "text": "( ✿>ᴗ<)。+♡",
+    "slug": "suki-0072",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "きゅん",
+      "ハート"
+    ],
+    "reading": [
+      "きゅん",
+      "ときめき"
+    ]
+  },
+  {
+    "text": "好き好き♡(>ω<)♡",
+    "slug": "suki-0073",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "大好き",
+      "ハート"
+    ],
+    "reading": [
+      "すきすき",
+      "だいすき"
+    ]
+  },
+  {
+    "text": "(っ˘з(˘⌣˘ )♡",
+    "slug": "suki-0074",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "ちゅー",
+      "ハート"
+    ],
+    "reading": [
+      "ちゅー",
+      "だいすき"
+    ]
+  },
+  {
+    "text": "ぎゅっとしたい♡(っ´ω`)っ",
+    "slug": "suki-0075",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "ぎゅっ",
+      "ラブラブ"
+    ],
+    "reading": [
+      "ぎゅー",
+      "だいすき"
+    ]
+  },
+  {
+    "text": "(*´﹃｀*)♡好き♡",
+    "slug": "suki-0076",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "メロメロ",
+      "ハート"
+    ],
+    "reading": [
+      "めろめろ",
+      "すき"
+    ]
+  },
+  {
+    "text": "(♡｀∀´♡)好きだぞっ",
+    "slug": "suki-0077",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "大好き"
+    ],
+    "reading": [
+      "すき",
+      "だいすき"
+    ]
+  },
+  {
+    "text": "♡〜('▽^人)好きだよ",
+    "slug": "suki-0078",
+    "categories": [
+      "suki"
+    ],
+    "tags": [
+      "好き",
+      "大好き",
+      "ハート"
+    ],
+    "reading": [
+      "すきだよ",
+      "だいすき"
+    ]
+  },
+  {
+    "text": "orz",
+    "slug": "taoreru-0001",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "orz"
+    ],
+    "reading": [
+      "がっくり",
+      "おるず"
+    ]
+  },
+  {
+    "text": "OTL",
+    "slug": "taoreru-0002",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "orz"
+    ],
+    "reading": [
+      "がっくり"
+    ]
+  },
+  {
+    "text": "_no",
+    "slug": "taoreru-0003",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "orz"
+    ],
+    "reading": [
+      "がっくり"
+    ]
+  },
+  {
+    "text": "○rz",
+    "slug": "taoreru-0004",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "orz"
+    ],
+    "reading": [
+      "がっくり"
+    ]
+  },
+  {
+    "text": "Or2",
+    "slug": "taoreru-0005",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "orz"
+    ],
+    "reading": [
+      "がっくり"
+    ]
+  },
+  {
+    "text": "＿|￣|○",
+    "slug": "taoreru-0006",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "orz",
+      "がっくり"
+    ],
+    "reading": [
+      "がっくり",
+      "おちこみ"
+    ]
+  },
+  {
+    "text": "｜￣｜＿",
+    "slug": "taoreru-0007",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "orz"
+    ],
+    "reading": [
+      "がっくり"
+    ]
+  },
+  {
+    "text": "＿ﾉ乙(､ﾝ､)ﾉ",
+    "slug": "taoreru-0008",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "orz"
+    ],
+    "reading": [
+      "がっくり",
+      "ぐったり"
+    ]
+  },
+  {
+    "text": "STZ",
+    "slug": "taoreru-0009",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "orz"
+    ],
+    "reading": [
+      "がっくり"
+    ]
+  },
+  {
+    "text": "___ﾉ",
+    "slug": "taoreru-0010",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "orz"
+    ],
+    "reading": [
+      "がっくり"
+    ]
+  },
+  {
+    "text": "_(:3」∠)_",
+    "slug": "taoreru-0011",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "ぐったり"
+    ],
+    "reading": [
+      "ぐったり",
+      "ばたんきゅー"
+    ]
+  },
+  {
+    "text": "＿(:3」∠)＿",
+    "slug": "taoreru-0012",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "ぐったり"
+    ],
+    "reading": [
+      "ぐったり"
+    ]
+  },
+  {
+    "text": "_:(´ω｀」 ∠):_",
+    "slug": "taoreru-0013",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "ぐったり"
+    ],
+    "reading": [
+      "ぐったり",
+      "ばたんきゅー"
+    ]
+  },
+  {
+    "text": "＿(┐「ε:)＿",
+    "slug": "taoreru-0014",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "ぐったり"
+    ],
+    "reading": [
+      "ぐったり"
+    ]
+  },
+  {
+    "text": "(o_ _)o",
+    "slug": "taoreru-0015",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "バタッ"
+    ],
+    "reading": [
+      "ばたっ",
+      "ぐったり"
+    ]
+  },
+  {
+    "text": "o(_ _)o",
+    "slug": "taoreru-0016",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "バタッ"
+    ],
+    "reading": [
+      "ばたっ"
+    ]
+  },
+  {
+    "text": "ヽ(_ _ヽ)",
+    "slug": "taoreru-0017",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "ぐったり"
+    ],
+    "reading": [
+      "ぐったり"
+    ]
+  },
+  {
+    "text": "(o´_｀o)",
+    "slug": "taoreru-0018",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "ぐったり"
+    ],
+    "reading": [
+      "ぐったり",
+      "へとへと"
+    ]
+  },
+  {
+    "text": "ｸﾞｯﾀﾘ(´Д｀)",
+    "slug": "taoreru-0019",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "ぐったり"
+    ],
+    "reading": [
+      "ぐったり",
+      "へとへと"
+    ]
+  },
+  {
+    "text": "( ﾉ_ _)ﾉ",
+    "slug": "taoreru-0020",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "バタッ"
+    ],
+    "reading": [
+      "ばたっ"
+    ]
+  },
+  {
+    "text": "(o_ _)oﾊﾞﾀｯ",
+    "slug": "taoreru-0021",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "バタッ",
+      "気絶"
+    ],
+    "reading": [
+      "ばたっ",
+      "きぜつ"
+    ]
+  },
+  {
+    "text": "(×_×)",
+    "slug": "taoreru-0022",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "気絶"
+    ],
+    "reading": [
+      "きぜつ",
+      "ぱたり"
+    ]
+  },
+  {
+    "text": "(×﹏×)",
+    "slug": "taoreru-0023",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "気絶"
+    ],
+    "reading": [
+      "きぜつ"
+    ]
+  },
+  {
+    "text": "(@_@)",
+    "slug": "taoreru-0024",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "気絶",
+      "めまい"
+    ],
+    "reading": [
+      "めまい",
+      "ぐるぐる"
+    ]
+  },
+  {
+    "text": "(×．×)",
+    "slug": "taoreru-0025",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "気絶"
+    ],
+    "reading": [
+      "きぜつ"
+    ]
+  },
+  {
+    "text": "( ÷ ﹏ ÷ )",
+    "slug": "taoreru-0026",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "気絶"
+    ],
+    "reading": [
+      "きぜつ"
+    ]
+  },
+  {
+    "text": "( ⊗﹏⊗ )",
+    "slug": "taoreru-0027",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "気絶"
+    ],
+    "reading": [
+      "きぜつ"
+    ]
+  },
+  {
+    "text": "(×O×)",
+    "slug": "taoreru-0028",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "気絶"
+    ],
+    "reading": [
+      "きぜつ"
+    ]
+  },
+  {
+    "text": "ﾊﾞﾀﾝ_(┐「ε:)_",
+    "slug": "taoreru-0029",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "バタッ"
+    ],
+    "reading": [
+      "ばたん",
+      "ばたんきゅー"
+    ]
+  },
+  {
+    "text": "(；o;)o",
+    "slug": "taoreru-0030",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "バタッ"
+    ],
+    "reading": [
+      "ばたっ"
+    ]
+  },
+  {
+    "text": "( ﾟдﾟ)…",
+    "slug": "taoreru-0031",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "チーン",
+      "放心"
+    ],
+    "reading": [
+      "ちーん",
+      "ほうしん"
+    ]
+  },
+  {
+    "text": "(´；ω；`)ﾁｰﾝ",
+    "slug": "taoreru-0032",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "チーン"
+    ],
+    "reading": [
+      "ちーん"
+    ]
+  },
+  {
+    "text": "＼(^o^)／",
+    "slug": "taoreru-0033",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "オワタ",
+      "絶望"
+    ],
+    "reading": [
+      "おわた",
+      "ぜつぼう"
+    ]
+  },
+  {
+    "text": "(-公-、)",
+    "slug": "taoreru-0034",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "絶望"
+    ],
+    "reading": [
+      "ぜつぼう",
+      "がっくり"
+    ]
+  },
+  {
+    "text": "( ◞‸◟ )",
+    "slug": "taoreru-0035",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "絶望",
+      "しょんぼり"
+    ],
+    "reading": [
+      "しょんぼり",
+      "おちこみ"
+    ]
+  },
+  {
+    "text": "(´∀｀)ﾁｰﾝ",
+    "slug": "taoreru-0036",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "チーン"
+    ],
+    "reading": [
+      "ちーん"
+    ]
+  },
+  {
+    "text": "( ﾟ□ﾟ)ｶﾞｸｯ",
+    "slug": "taoreru-0037",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "がっくり"
+    ],
+    "reading": [
+      "がくっ",
+      "がっくり"
+    ]
+  },
+  {
+    "text": "_:(´д`」 ∠):_",
+    "slug": "taoreru-0038",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "絶望",
+      "ぐったり"
+    ],
+    "reading": [
+      "ぜつぼう",
+      "ぐったり"
+    ]
+  },
+  {
+    "text": "( ˘×˘ )",
+    "slug": "taoreru-0039",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "かわいい",
+      "気絶"
+    ],
+    "reading": [
+      "きぜつ",
+      "ぱたり"
+    ]
+  },
+  {
+    "text": "(｡>﹏<｡)ﾊﾞﾀ",
+    "slug": "taoreru-0040",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "かわいい",
+      "バタッ"
+    ],
+    "reading": [
+      "ばたっ",
+      "ぱたり"
+    ]
+  },
+  {
+    "text": "( ›﹏‹ )",
+    "slug": "taoreru-0041",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "かわいい"
+    ],
+    "reading": [
+      "ぐったり",
+      "ぱたり"
+    ]
+  },
+  {
+    "text": "( ; ﹏ ; )ﾊﾞﾀ",
+    "slug": "taoreru-0042",
+    "categories": [
+      "taoreru",
+      "cry"
+    ],
+    "tags": [
+      "倒れる",
+      "かわいい",
+      "バタッ"
+    ],
+    "reading": [
+      "ばたっ",
+      "ぱたり"
+    ]
+  },
+  {
+    "text": "( ˘ ﹏ ˘ )",
+    "slug": "taoreru-0043",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "かわいい",
+      "ぐったり"
+    ],
+    "reading": [
+      "ぐったり",
+      "ぱたり"
+    ]
+  },
+  {
+    "text": "( ⸝⸝ × ﹏ × ⸝⸝ )",
+    "slug": "taoreru-0044",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "かわいい",
+      "気絶"
+    ],
+    "reading": [
+      "きぜつ",
+      "ぱたり"
+    ]
+  },
+  {
+    "text": "○|￣|＿",
+    "slug": "taoreru-0045",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "orz",
+      "がっくり"
+    ],
+    "reading": [
+      "がっくり",
+      "おちこみ"
+    ]
+  },
+  {
+    "text": "＿ﾉ乙(､ﾝ､)＿",
+    "slug": "taoreru-0046",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "orz"
+    ],
+    "reading": [
+      "がっくり",
+      "ぐったり"
+    ]
+  },
+  {
+    "text": "｜￣｜○",
+    "slug": "taoreru-0047",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "orz"
+    ],
+    "reading": [
+      "がっくり"
+    ]
+  },
+  {
+    "text": "＿|￣|○ﾞ",
+    "slug": "taoreru-0048",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "orz",
+      "がっくり"
+    ],
+    "reading": [
+      "がっくり",
+      "がーん"
+    ]
+  },
+  {
+    "text": "＿(´ω｀」 ∠)＿",
+    "slug": "taoreru-0049",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "ぐったり"
+    ],
+    "reading": [
+      "ぐったり",
+      "ばたんきゅー"
+    ]
+  },
+  {
+    "text": "ｏ(_ _｡)",
+    "slug": "taoreru-0050",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "ぐったり"
+    ],
+    "reading": [
+      "ぐったり"
+    ]
+  },
+  {
+    "text": "ヽ(_ _。)ノ",
+    "slug": "taoreru-0051",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "ぐったり"
+    ],
+    "reading": [
+      "ぐったり",
+      "へとへと"
+    ]
+  },
+  {
+    "text": "(´ﾟωﾟ`)ﾉ",
+    "slug": "taoreru-0052",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "ぐったり",
+      "放心"
+    ],
+    "reading": [
+      "ぐったり",
+      "ほうしん"
+    ]
+  },
+  {
+    "text": "＿(┐「ε:)＿ﾞ",
+    "slug": "taoreru-0053",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "ぐったり"
+    ],
+    "reading": [
+      "ぐったり"
+    ]
+  },
+  {
+    "text": "(×Д×)",
+    "slug": "taoreru-0054",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "気絶"
+    ],
+    "reading": [
+      "きぜつ",
+      "ばたっ"
+    ]
+  },
+  {
+    "text": "(×～×)",
+    "slug": "taoreru-0055",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "気絶"
+    ],
+    "reading": [
+      "きぜつ"
+    ]
+  },
+  {
+    "text": "(＠△＠)",
+    "slug": "taoreru-0056",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "気絶",
+      "めまい"
+    ],
+    "reading": [
+      "めまい",
+      "ぐるぐる"
+    ]
+  },
+  {
+    "text": "(ノ﹏ヽ)",
+    "slug": "taoreru-0057",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "バタッ"
+    ],
+    "reading": [
+      "ばたっ",
+      "がっくり"
+    ]
+  },
+  {
+    "text": "(o_ _)oﾊﾞﾀﾘ",
+    "slug": "taoreru-0058",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "バタッ"
+    ],
+    "reading": [
+      "ばたり",
+      "ばたっ"
+    ]
+  },
+  {
+    "text": "(≧﹏≦)",
+    "slug": "taoreru-0059",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "気絶",
+      "かわいい"
+    ],
+    "reading": [
+      "きぜつ",
+      "ぱたり"
+    ]
+  },
+  {
+    "text": "ｵﾜﾀ＼(^o^)／",
+    "slug": "taoreru-0060",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "オワタ",
+      "絶望"
+    ],
+    "reading": [
+      "おわた",
+      "ぜつぼう"
+    ]
+  },
+  {
+    "text": "(´◦ω◦｀)",
+    "slug": "taoreru-0061",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "放心",
+      "絶望"
+    ],
+    "reading": [
+      "ほうしん",
+      "がっくり"
+    ]
+  },
+  {
+    "text": "(；￣Д￣)",
+    "slug": "taoreru-0062",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "絶望",
+      "がっくり"
+    ],
+    "reading": [
+      "がっくり",
+      "がーん"
+    ]
+  },
+  {
+    "text": "( ｡˃ ﹏ ˂｡)",
+    "slug": "taoreru-0063",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "かわいい",
+      "バタッ"
+    ],
+    "reading": [
+      "ばたっ",
+      "ぱたり"
+    ]
+  },
+  {
+    "text": "( >﹏< )",
+    "slug": "taoreru-0064",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "かわいい"
+    ],
+    "reading": [
+      "ぱたり",
+      "ぐったり"
+    ]
+  },
+  {
+    "text": "( ˘･ω･˘ )",
+    "slug": "taoreru-0065",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "かわいい",
+      "ぐったり"
+    ],
+    "reading": [
+      "ぐったり",
+      "しょんぼり"
+    ]
+  },
+  {
+    "text": "(｡•́︿•̀｡)",
+    "slug": "taoreru-0066",
+    "categories": [
+      "taoreru",
+      "cry"
+    ],
+    "tags": [
+      "倒れる",
+      "かわいい",
+      "しょんぼり"
+    ],
+    "reading": [
+      "しょんぼり",
+      "がっくり"
+    ]
+  },
+  {
+    "text": "orz💦",
+    "slug": "taoreru-0067",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "絵文字",
+      "orz"
+    ],
+    "reading": [
+      "がっくり",
+      "あせあせ"
+    ]
+  },
+  {
+    "text": "(×﹏×)💫",
+    "slug": "taoreru-0068",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "絵文字",
+      "気絶",
+      "めまい"
+    ],
+    "reading": [
+      "きぜつ",
+      "めまい"
+    ]
+  },
+  {
+    "text": "_(:3」∠)_💤",
+    "slug": "taoreru-0069",
+    "categories": [
+      "taoreru"
+    ],
+    "tags": [
+      "倒れる",
+      "絵文字",
+      "ぐったり"
+    ],
+    "reading": [
+      "ぐったり",
+      "ばたんきゅー"
+    ]
+  },
+  {
+    "text": "(｡>﹏<｡)💧",
+    "slug": "taoreru-0070",
+    "categories": [
+      "taoreru",
+      "cry"
+    ],
+    "tags": [
+      "倒れる",
+      "絵文字",
+      "かわいい"
+    ],
+    "reading": [
+      "ぱたり",
+      "うるうる"
+    ]
+  },
+  {
+    "text": "(・ωｰ)～☆",
+    "slug": "tehepero-0001",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "ウインク"
+    ],
+    "reading": [
+      "てへぺろ",
+      "うぃんく"
+    ]
+  },
+  {
+    "text": "(ゝ∀･)",
+    "slug": "tehepero-0002",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "ウインク"
+    ],
+    "reading": [
+      "てへぺろ",
+      "うぃんく"
+    ]
+  },
+  {
+    "text": "(ゝω･)",
+    "slug": "tehepero-0003",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "ウインク"
+    ],
+    "reading": [
+      "てへぺろ",
+      "うぃんく"
+    ]
+  },
+  {
+    "text": "( ´∀｀)ゞ",
+    "slug": "tehepero-0004",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "ごまかし"
+    ],
+    "reading": [
+      "てへぺろ",
+      "ごまかし"
+    ]
+  },
+  {
+    "text": "(*ゝω・)ﾉ",
+    "slug": "tehepero-0005",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "ウインク"
+    ],
+    "reading": [
+      "てへぺろ",
+      "うぃんく"
+    ]
+  },
+  {
+    "text": "(・ω<)",
+    "slug": "tehepero-0006",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "ウインク"
+    ],
+    "reading": [
+      "てへぺろ",
+      "うぃんく"
+    ]
+  },
+  {
+    "text": "( ﾟ∀ﾟ)ﾉ",
+    "slug": "tehepero-0007",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "元気"
+    ],
+    "reading": [
+      "てへぺろ",
+      "てへ"
+    ]
+  },
+  {
+    "text": "(´ω`*)ゝ",
+    "slug": "tehepero-0008",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "ごまかし"
+    ],
+    "reading": [
+      "てへぺろ",
+      "ごまかし"
+    ]
+  },
+  {
+    "text": "(＾ω＜)",
+    "slug": "tehepero-0009",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "ウインク"
+    ],
+    "reading": [
+      "てへぺろ",
+      "うぃんく"
+    ]
+  },
+  {
+    "text": "(･ωｰ)〜☆",
+    "slug": "tehepero-0010",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "ウインク",
+      "キラキラ"
+    ],
+    "reading": [
+      "てへぺろ",
+      "うぃんく"
+    ]
+  },
+  {
+    "text": "(°ωｰ)☆",
+    "slug": "tehepero-0011",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "ウインク"
+    ],
+    "reading": [
+      "てへぺろ",
+      "うぃんく"
+    ]
+  },
+  {
+    "text": "( ´･ωｰ`)",
+    "slug": "tehepero-0012",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "ウインク"
+    ],
+    "reading": [
+      "てへぺろ",
+      "うぃんく"
+    ]
+  },
+  {
+    "text": "(ﾟ∀ﾟ)ｰ☆",
+    "slug": "tehepero-0013",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "元気",
+      "キラキラ"
+    ],
+    "reading": [
+      "てへぺろ",
+      "てへ"
+    ]
+  },
+  {
+    "text": "(￣ωｰ)☆",
+    "slug": "tehepero-0014",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "ウインク"
+    ],
+    "reading": [
+      "てへぺろ",
+      "うぃんく"
+    ]
+  },
+  {
+    "text": "(´∀｀)ｰ☆",
+    "slug": "tehepero-0015",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "元気",
+      "キラキラ"
+    ],
+    "reading": [
+      "てへぺろ",
+      "てへ"
+    ]
+  },
+  {
+    "text": "(ゝД･)",
+    "slug": "tehepero-0016",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "ウインク"
+    ],
+    "reading": [
+      "てへぺろ",
+      "うぃんく"
+    ]
+  },
+  {
+    "text": "( ´ ³ `)",
+    "slug": "tehepero-0017",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "舌ぺろ"
+    ],
+    "reading": [
+      "ぺろ",
+      "てへぺろ"
+    ]
+  },
+  {
+    "text": "(˙³˙)",
+    "slug": "tehepero-0018",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "舌ぺろ"
+    ],
+    "reading": [
+      "ぺろ"
+    ]
+  },
+  {
+    "text": "(*´³｀*)",
+    "slug": "tehepero-0019",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "舌ぺろ"
+    ],
+    "reading": [
+      "ぺろ",
+      "てへぺろ"
+    ]
+  },
+  {
+    "text": "( ´ε` )",
+    "slug": "tehepero-0020",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "舌ぺろ"
+    ],
+    "reading": [
+      "ぺろ"
+    ]
+  },
+  {
+    "text": "(*´ε｀*)",
+    "slug": "tehepero-0021",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "舌ぺろ"
+    ],
+    "reading": [
+      "ぺろ",
+      "てへぺろ"
+    ]
+  },
+  {
+    "text": "( ˙ε˙ )",
+    "slug": "tehepero-0022",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "舌ぺろ"
+    ],
+    "reading": [
+      "ぺろ"
+    ]
+  },
+  {
+    "text": "(･ω･)³",
+    "slug": "tehepero-0023",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "舌ぺろ"
+    ],
+    "reading": [
+      "ぺろ"
+    ]
+  },
+  {
+    "text": "( ᴗ ³ ᴗ )",
+    "slug": "tehepero-0024",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "舌ぺろ"
+    ],
+    "reading": [
+      "ぺろ"
+    ]
+  },
+  {
+    "text": "(´ω`)³",
+    "slug": "tehepero-0025",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "舌ぺろ"
+    ],
+    "reading": [
+      "ぺろ"
+    ]
+  },
+  {
+    "text": "( >³< )",
+    "slug": "tehepero-0026",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "舌ぺろ"
+    ],
+    "reading": [
+      "ぺろ"
+    ]
+  },
+  {
+    "text": "( *³* )",
+    "slug": "tehepero-0027",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "舌ぺろ"
+    ],
+    "reading": [
+      "ぺろ"
+    ]
+  },
+  {
+    "text": "( ˘ ³˘)",
+    "slug": "tehepero-0028",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "舌ぺろ",
+      "ちゅー"
+    ],
+    "reading": [
+      "ぺろ",
+      "ちゅー"
+    ]
+  },
+  {
+    "text": "(°³°)",
+    "slug": "tehepero-0029",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "舌ぺろ"
+    ],
+    "reading": [
+      "ぺろ"
+    ]
+  },
+  {
+    "text": "(・ω³・)",
+    "slug": "tehepero-0030",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "舌ぺろ"
+    ],
+    "reading": [
+      "ぺろ"
+    ]
+  },
+  {
+    "text": "てへ(´∀｀;)",
+    "slug": "tehepero-0031",
+    "categories": [
+      "tehepero",
+      "tereru"
+    ],
+    "tags": [
+      "てへぺろ",
+      "ごまかし",
+      "照れ"
+    ],
+    "reading": [
+      "てへ",
+      "ごまかし"
+    ]
+  },
+  {
+    "text": "( ´∀｀;)ゞ",
+    "slug": "tehepero-0032",
+    "categories": [
+      "tehepero",
+      "tereru"
+    ],
+    "tags": [
+      "てへぺろ",
+      "ごまかし"
+    ],
+    "reading": [
+      "ごまかし",
+      "てへ"
+    ]
+  },
+  {
+    "text": "(；´∀｀)ゞ",
+    "slug": "tehepero-0033",
+    "categories": [
+      "tehepero",
+      "tereru"
+    ],
+    "tags": [
+      "てへぺろ",
+      "ごまかし",
+      "照れ"
+    ],
+    "reading": [
+      "ごまかし",
+      "てへ"
+    ]
+  },
+  {
+    "text": "てへっ(・ω<)",
+    "slug": "tehepero-0034",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "ウインク"
+    ],
+    "reading": [
+      "てへ",
+      "てへぺろ"
+    ]
+  },
+  {
+    "text": "( ´ω｀;)ゞ",
+    "slug": "tehepero-0035",
+    "categories": [
+      "tehepero",
+      "tereru"
+    ],
+    "tags": [
+      "てへぺろ",
+      "ごまかし"
+    ],
+    "reading": [
+      "ごまかし"
+    ]
+  },
+  {
+    "text": "ﾃﾍｯ(´ω｀)",
+    "slug": "tehepero-0036",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "ごまかし"
+    ],
+    "reading": [
+      "てへ",
+      "ごまかし"
+    ]
+  },
+  {
+    "text": "( ＾ω＾;)ゞ",
+    "slug": "tehepero-0037",
+    "categories": [
+      "tehepero",
+      "tereru"
+    ],
+    "tags": [
+      "てへぺろ",
+      "ごまかし",
+      "照れ"
+    ],
+    "reading": [
+      "ごまかし",
+      "てへ"
+    ]
+  },
+  {
+    "text": "(；ゝω・)",
+    "slug": "tehepero-0038",
+    "categories": [
+      "tehepero",
+      "tereru"
+    ],
+    "tags": [
+      "てへぺろ",
+      "ウインク",
+      "照れ"
+    ],
+    "reading": [
+      "てへ",
+      "うぃんく"
+    ]
+  },
+  {
+    "text": "あはは(´∀｀;)",
+    "slug": "tehepero-0039",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "ごまかし"
+    ],
+    "reading": [
+      "ごまかし",
+      "あはは"
+    ]
+  },
+  {
+    "text": "( ´∀`;)ゝ",
+    "slug": "tehepero-0040",
+    "categories": [
+      "tehepero",
+      "tereru"
+    ],
+    "tags": [
+      "てへぺろ",
+      "ごまかし"
+    ],
+    "reading": [
+      "ごまかし",
+      "てへ"
+    ]
+  },
+  {
+    "text": "てへぺろ(・ωｰ)",
+    "slug": "tehepero-0041",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "ウインク"
+    ],
+    "reading": [
+      "てへぺろ"
+    ]
+  },
+  {
+    "text": "( ﾟ∀ﾟ;)ゞ",
+    "slug": "tehepero-0042",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "ごまかし"
+    ],
+    "reading": [
+      "ごまかし",
+      "てへ"
+    ]
+  },
+  {
+    "text": "(/ω＼)てへ",
+    "slug": "tehepero-0043",
+    "categories": [
+      "tehepero",
+      "tereru"
+    ],
+    "tags": [
+      "てへぺろ",
+      "照れ",
+      "ごまかし"
+    ],
+    "reading": [
+      "てへ",
+      "はずかしい"
+    ]
+  },
+  {
+    "text": "( ´ﾟ∀ﾟ`)ゝ",
+    "slug": "tehepero-0044",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "ごまかし"
+    ],
+    "reading": [
+      "ごまかし",
+      "てへ"
+    ]
+  },
+  {
+    "text": "(・ωｰ)ｰ☆",
+    "slug": "tehepero-0045",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "うざい",
+      "ドヤ"
+    ],
+    "reading": [
+      "どや",
+      "てへぺろ"
+    ]
+  },
+  {
+    "text": "( ¯ω<)",
+    "slug": "tehepero-0046",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "うざい",
+      "ドヤ"
+    ],
+    "reading": [
+      "どや"
+    ]
+  },
+  {
+    "text": "( •ωｰ)b",
+    "slug": "tehepero-0047",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "ドヤ",
+      "ウインク"
+    ],
+    "reading": [
+      "どや",
+      "うぃんく"
+    ]
+  },
+  {
+    "text": "( ˙ωｰ)☆",
+    "slug": "tehepero-0048",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "ウインク"
+    ],
+    "reading": [
+      "てへぺろ",
+      "うぃんく"
+    ]
+  },
+  {
+    "text": "( ´ー｀)ゞ",
+    "slug": "tehepero-0049",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "うざい",
+      "ドヤ"
+    ],
+    "reading": [
+      "どや",
+      "やれやれ"
+    ]
+  },
+  {
+    "text": "( ﾟｰﾟ)ｰ☆",
+    "slug": "tehepero-0050",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "ドヤ"
+    ],
+    "reading": [
+      "どや",
+      "てへ"
+    ]
+  },
+  {
+    "text": "(▼ωｰ)☆",
+    "slug": "tehepero-0051",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "うざい",
+      "ドヤ"
+    ],
+    "reading": [
+      "どや"
+    ]
+  },
+  {
+    "text": "(・ω<)b",
+    "slug": "tehepero-0052",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "ドヤ",
+      "ウインク"
+    ],
+    "reading": [
+      "どや",
+      "うぃんく"
+    ]
+  },
+  {
+    "text": "( ＾ｰ☆)",
+    "slug": "tehepero-0053",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "ウインク"
+    ],
+    "reading": [
+      "てへぺろ",
+      "うぃんく"
+    ]
+  },
+  {
+    "text": "(ｷﾘｯ)(・ωｰ)",
+    "slug": "tehepero-0054",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "うざい",
+      "ドヤ"
+    ],
+    "reading": [
+      "どや",
+      "きりっ"
+    ]
+  },
+  {
+    "text": "( ´ω｀)ﾉ☆",
+    "slug": "tehepero-0055",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "キラキラ"
+    ],
+    "reading": [
+      "てへぺろ",
+      "きらきら"
+    ]
+  },
+  {
+    "text": "☆(ゝω・)v",
+    "slug": "tehepero-0056",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "キラキラ",
+      "ウインク"
+    ],
+    "reading": [
+      "てへぺろ",
+      "うぃんく"
+    ]
+  },
+  {
+    "text": "(・ωｰ)ｰ☆ﾐ",
+    "slug": "tehepero-0057",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "キラキラ"
+    ],
+    "reading": [
+      "てへぺろ",
+      "きらきら"
+    ]
+  },
+  {
+    "text": "( ´∀｀)b☆",
+    "slug": "tehepero-0058",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "キラキラ",
+      "ドヤ"
+    ],
+    "reading": [
+      "てへぺろ",
+      "どや"
+    ]
+  },
+  {
+    "text": "(ゝ∀･)v☆",
+    "slug": "tehepero-0059",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "キラキラ",
+      "ウインク"
+    ],
+    "reading": [
+      "てへぺろ",
+      "うぃんく"
+    ]
+  },
+  {
+    "text": "✦(・ωｰ)✦",
+    "slug": "tehepero-0060",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "キラキラ"
+    ],
+    "reading": [
+      "てへぺろ",
+      "きらきら"
+    ]
+  },
+  {
+    "text": "( *ゝ∀･)ﾉ☆",
+    "slug": "tehepero-0061",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "キラキラ",
+      "ウインク"
+    ],
+    "reading": [
+      "てへぺろ",
+      "うぃんく"
+    ]
+  },
+  {
+    "text": "☆ﾐ(ゝ∀･)",
+    "slug": "tehepero-0062",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "キラキラ"
+    ],
+    "reading": [
+      "てへぺろ",
+      "きらきら"
+    ]
+  },
+  {
+    "text": "(ゝ∀･)v",
+    "slug": "tehepero-0063",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "元気",
+      "ウインク"
+    ],
+    "reading": [
+      "てへぺろ",
+      "ぶい"
+    ]
+  },
+  {
+    "text": "(・ωｰ)b",
+    "slug": "tehepero-0064",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "元気",
+      "ドヤ"
+    ],
+    "reading": [
+      "てへぺろ",
+      "ぐっ"
+    ]
+  },
+  {
+    "text": "( ´∀｀)b",
+    "slug": "tehepero-0065",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "元気"
+    ],
+    "reading": [
+      "てへぺろ",
+      "ぐっ"
+    ]
+  },
+  {
+    "text": "(ゝω･)ﾉ",
+    "slug": "tehepero-0066",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "元気",
+      "ウインク"
+    ],
+    "reading": [
+      "てへぺろ",
+      "やっほー"
+    ]
+  },
+  {
+    "text": "(*ゝ∀･)b",
+    "slug": "tehepero-0067",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "元気",
+      "ドヤ"
+    ],
+    "reading": [
+      "てへぺろ",
+      "ぐっ"
+    ]
+  },
+  {
+    "text": "( ﾟ∀ﾟ)v",
+    "slug": "tehepero-0068",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "元気"
+    ],
+    "reading": [
+      "てへぺろ",
+      "ぶい"
+    ]
+  },
+  {
+    "text": "(＾ω＜)ﾉ",
+    "slug": "tehepero-0069",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "元気",
+      "ウインク"
+    ],
+    "reading": [
+      "てへぺろ",
+      "やっほー"
+    ]
+  },
+  {
+    "text": "( ´▽｀)ゞ",
+    "slug": "tehepero-0070",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "ごまかし"
+    ],
+    "reading": [
+      "てへ",
+      "ごまかし"
+    ]
+  },
+  {
+    "text": "(・ωｰ)〜♪",
+    "slug": "tehepero-0071",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "元気",
+      "ごきげん"
+    ],
+    "reading": [
+      "てへぺろ",
+      "ごきげん"
+    ]
+  },
+  {
+    "text": "(ゝ∀･)ｰ☆",
+    "slug": "tehepero-0072",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "ウインク",
+      "キラキラ"
+    ],
+    "reading": [
+      "てへぺろ",
+      "うぃんく"
+    ]
+  },
+  {
+    "text": "( ゝ∀･)💕",
+    "slug": "tehepero-0073",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "絵文字",
+      "ウインク"
+    ],
+    "reading": [
+      "てへぺろ",
+      "うぃんく"
+    ]
+  },
+  {
+    "text": "(・ω<)✨",
+    "slug": "tehepero-0074",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "絵文字",
+      "ウインク",
+      "キラキラ"
+    ],
+    "reading": [
+      "てへぺろ",
+      "うぃんく"
+    ]
+  },
+  {
+    "text": "てへ(´∀｀)💦",
+    "slug": "tehepero-0075",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "絵文字",
+      "ごまかし"
+    ],
+    "reading": [
+      "てへ",
+      "ごまかし"
+    ]
+  },
+  {
+    "text": "(ゝω･)ﾉ💛",
+    "slug": "tehepero-0076",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "絵文字",
+      "元気"
+    ],
+    "reading": [
+      "てへぺろ",
+      "やっほー"
+    ]
+  },
+  {
+    "text": "( ´ ³ `)💗",
+    "slug": "tehepero-0077",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "絵文字",
+      "舌ぺろ"
+    ],
+    "reading": [
+      "ぺろ",
+      "てへぺろ"
+    ]
+  },
+  {
+    "text": "(・ωｰ)b✨",
+    "slug": "tehepero-0078",
+    "categories": [
+      "tehepero"
+    ],
+    "tags": [
+      "てへぺろ",
+      "絵文字",
+      "ドヤ"
+    ],
+    "reading": [
+      "てへぺろ",
+      "どや"
     ]
   },
   {
