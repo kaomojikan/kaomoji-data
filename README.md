@@ -1,10 +1,10 @@
 # kaomoji-data
 
-> ~1,000 Japanese kaomoji (顔文字) organized by mood and scene — the open dataset behind [kaomojikan.com](https://kaomojikan.com).
+> 1,700+ Japanese kaomoji (顔文字) organized by mood and scene — the open dataset behind [kaomojikan.com](https://kaomojikan.com).
 >
 > 気分・シーン別にまとめた日本語の顔文字データセット。[顔文字館](https://kaomojikan.com) で使われているデータを、そのまま開放しています。
 
-**Last updated**: <!-- lastUpdated:start -->2026-06-06<!-- lastUpdated:end --> · **License**: MIT · **Live demo**: [kaomojikan.com](https://kaomojikan.com)
+**Last updated**: <!-- lastUpdated:start -->2026-06-08<!-- lastUpdated:end --> · **License**: MIT · **Live demo**: [kaomojikan.com](https://kaomojikan.com)
 
 ---
 
@@ -13,14 +13,14 @@
 <!-- stats:start -->
 | Category | Slug | Count |
 |----------|------|-------|
-| 可愛い | `cute` | 274 |
+| 可愛い | `cute` | 303 |
 | 泣く | `cry` | 137 |
 | なでなで | `nadenade` | 80 |
 | チラッ | `chira` | 78 |
 | コピペ | `copype` | 88 |
 | 投げる | `nageru` | 50 |
 | もぐもぐ | `mogumogu` | 48 |
-| 動物 | `animal` | 108 |
+| 動物 | `animal` | 109 |
 | 嬉しい | `ureshii` | 78 |
 | 照れる | `tereru` | 97 |
 | びっくり | `bikkuri` | 74 |
@@ -33,7 +33,10 @@
 | てへぺろ | `tehepero` | 78 |
 | 倒れる | `taoreru` | 70 |
 | AA | `aa` | 58 |
-| **Total** | | **1649** |
+| 眠い | `nemui` | 50 |
+| 怒る | `okoru` | 51 |
+| 応援 | `ouen` | 58 |
+| **Total** | | **1808** |
 <!-- stats:end -->
 
 > Some kaomoji appear in more than one category, so per-category counts can overlap and the **Total** is the number of entries across all categories (not deduplicated by kaomoji text).

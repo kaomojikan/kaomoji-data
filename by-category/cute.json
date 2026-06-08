@@ -3998,6 +3998,479 @@
     ]
   },
   {
+    "text": "( ˘ ᴗ ˘ )zzz",
+    "slug": "nemui-0037",
+    "categories": [
+      "nemui",
+      "cute"
+    ],
+    "tags": [
+      "眠い",
+      "かわいい",
+      "zzz"
+    ],
+    "reading": [
+      "ねむい",
+      "すやすや"
+    ]
+  },
+  {
+    "text": "(｡-ᴗ-)zzz",
+    "slug": "nemui-0038",
+    "categories": [
+      "nemui",
+      "cute"
+    ],
+    "tags": [
+      "眠い",
+      "かわいい",
+      "zzz"
+    ],
+    "reading": [
+      "ねむい",
+      "すやすや"
+    ]
+  },
+  {
+    "text": "( ´-ᴗ-`)",
+    "slug": "nemui-0039",
+    "categories": [
+      "nemui",
+      "cute"
+    ],
+    "tags": [
+      "眠い",
+      "かわいい"
+    ],
+    "reading": [
+      "ねむい",
+      "とろん"
+    ]
+  },
+  {
+    "text": "( ˶-ω-˶ )",
+    "slug": "nemui-0040",
+    "categories": [
+      "nemui",
+      "cute"
+    ],
+    "tags": [
+      "眠い",
+      "かわいい"
+    ],
+    "reading": [
+      "ねむい"
+    ]
+  },
+  {
+    "text": "( ⸝⸝˘ω˘⸝⸝ )",
+    "slug": "nemui-0041",
+    "categories": [
+      "nemui",
+      "cute"
+    ],
+    "tags": [
+      "眠い",
+      "かわいい",
+      "ほっぺ"
+    ],
+    "reading": [
+      "ねむい",
+      "すやぁ"
+    ]
+  },
+  {
+    "text": "(˘͈ᵕ˘͈)",
+    "slug": "nemui-0042",
+    "categories": [
+      "nemui",
+      "cute"
+    ],
+    "tags": [
+      "眠い",
+      "かわいい"
+    ],
+    "reading": [
+      "ねむい",
+      "とろん"
+    ]
+  },
+  {
+    "text": "( ᵕ ᵕ )zzz",
+    "slug": "nemui-0043",
+    "categories": [
+      "nemui",
+      "cute"
+    ],
+    "tags": [
+      "眠い",
+      "かわいい",
+      "zzz"
+    ],
+    "reading": [
+      "ねむい",
+      "すやすや"
+    ]
+  },
+  {
+    "text": "( ｡˘ -˘｡)",
+    "slug": "nemui-0044",
+    "categories": [
+      "nemui",
+      "cute"
+    ],
+    "tags": [
+      "眠い",
+      "かわいい"
+    ],
+    "reading": [
+      "ねむい"
+    ]
+  },
+  {
+    "text": "( •̀ ω •́ )ﾑﾝ",
+    "slug": "okoru-0027",
+    "categories": [
+      "okoru",
+      "cute"
+    ],
+    "tags": [
+      "怒る",
+      "かわいい"
+    ],
+    "reading": [
+      "ぷんぷん",
+      "むん"
+    ]
+  },
+  {
+    "text": "( >д< )",
+    "slug": "okoru-0028",
+    "categories": [
+      "okoru",
+      "cute"
+    ],
+    "tags": [
+      "怒る",
+      "かわいい"
+    ],
+    "reading": [
+      "ぷんぷん",
+      "むー"
+    ]
+  },
+  {
+    "text": "(っ`ω´c)",
+    "slug": "okoru-0029",
+    "categories": [
+      "okoru",
+      "cute"
+    ],
+    "tags": [
+      "怒る",
+      "かわいい"
+    ],
+    "reading": [
+      "ぷんぷん",
+      "ぐぬぬ"
+    ]
+  },
+  {
+    "text": "( ⸝⸝•̀ ω •́⸝⸝ )",
+    "slug": "okoru-0030",
+    "categories": [
+      "okoru",
+      "cute"
+    ],
+    "tags": [
+      "怒る",
+      "かわいい",
+      "ほっぺ"
+    ],
+    "reading": [
+      "ぷんぷん",
+      "おこ"
+    ]
+  },
+  {
+    "text": "( ⸝⸝`^´⸝⸝ )",
+    "slug": "okoru-0031",
+    "categories": [
+      "okoru",
+      "cute"
+    ],
+    "tags": [
+      "怒る",
+      "かわいい"
+    ],
+    "reading": [
+      "ぷんぷん",
+      "むすっ"
+    ]
+  },
+  {
+    "text": "( ｡•̀ ᴖ •́｡)",
+    "slug": "okoru-0032",
+    "categories": [
+      "okoru",
+      "cute"
+    ],
+    "tags": [
+      "怒る",
+      "かわいい"
+    ],
+    "reading": [
+      "ぷんぷん"
+    ]
+  },
+  {
+    "text": "( •̀ロ•́ )ﾉ",
+    "slug": "okoru-0033",
+    "categories": [
+      "okoru",
+      "cute"
+    ],
+    "tags": [
+      "怒る",
+      "かわいい",
+      "やる気"
+    ],
+    "reading": [
+      "ぷんぷん",
+      "ふんす"
+    ]
+  },
+  {
+    "text": "ぷんぷん(｡>﹏<｡)",
+    "slug": "okoru-0034",
+    "categories": [
+      "okoru",
+      "cute"
+    ],
+    "tags": [
+      "怒る",
+      "かわいい",
+      "ぷんぷん"
+    ],
+    "reading": [
+      "ぷんぷん"
+    ]
+  },
+  {
+    "text": "( ˃⌑˂ )",
+    "slug": "okoru-0035",
+    "categories": [
+      "okoru",
+      "cute"
+    ],
+    "tags": [
+      "怒る",
+      "かわいい"
+    ],
+    "reading": [
+      "ぷんぷん",
+      "むー"
+    ]
+  },
+  {
+    "text": "( •̀⌓•́ )",
+    "slug": "okoru-0036",
+    "categories": [
+      "okoru",
+      "cute"
+    ],
+    "tags": [
+      "怒る",
+      "かわいい"
+    ],
+    "reading": [
+      "ぷんぷん",
+      "むすっ"
+    ]
+  },
+  {
+    "text": "応援してる( ´ ᵕ ` )♡",
+    "slug": "ouen-0024",
+    "categories": [
+      "ouen",
+      "cute"
+    ],
+    "tags": [
+      "応援",
+      "推し活",
+      "ハート"
+    ],
+    "reading": [
+      "おうえん",
+      "だいすき"
+    ]
+  },
+  {
+    "text": "♡( •̀ω•́ )ﾉ",
+    "slug": "ouen-0025",
+    "categories": [
+      "ouen",
+      "cute"
+    ],
+    "tags": [
+      "応援",
+      "推し活",
+      "ハート"
+    ],
+    "reading": [
+      "おうえん",
+      "だいすき"
+    ]
+  },
+  {
+    "text": "推し( ˶• ᴗ •˶ )♡",
+    "slug": "ouen-0026",
+    "categories": [
+      "ouen",
+      "cute"
+    ],
+    "tags": [
+      "応援",
+      "推し活",
+      "ハート"
+    ],
+    "reading": [
+      "おしかつ",
+      "だいすき"
+    ]
+  },
+  {
+    "text": "( •̀ ᴗ •́ )ﾉ♡",
+    "slug": "ouen-0027",
+    "categories": [
+      "ouen",
+      "cute"
+    ],
+    "tags": [
+      "応援",
+      "推し活",
+      "ハート"
+    ],
+    "reading": [
+      "おうえん",
+      "ふぁいと"
+    ]
+  },
+  {
+    "text": "＼( •̀ ᴗ •́ )／♡",
+    "slug": "ouen-0028",
+    "categories": [
+      "ouen",
+      "cute"
+    ],
+    "tags": [
+      "応援",
+      "推し活",
+      "ハート"
+    ],
+    "reading": [
+      "おうえん",
+      "だいすき"
+    ]
+  },
+  {
+    "text": "( ˶ᵔ ᵕ ᵔ˶ )ﾉ 応援",
+    "slug": "ouen-0029",
+    "categories": [
+      "ouen",
+      "cute"
+    ],
+    "tags": [
+      "応援",
+      "推し活",
+      "かわいい"
+    ],
+    "reading": [
+      "おうえん"
+    ]
+  },
+  {
+    "text": "( ´∀｀)つ♡ がんばれ",
+    "slug": "ouen-0030",
+    "categories": [
+      "ouen",
+      "cute"
+    ],
+    "tags": [
+      "応援",
+      "がんばれ",
+      "ハート"
+    ],
+    "reading": [
+      "がんばれ",
+      "だいすき"
+    ]
+  },
+  {
+    "text": "♡⸜( •̀ω•́ )⸝♡",
+    "slug": "ouen-0031",
+    "categories": [
+      "ouen",
+      "cute"
+    ],
+    "tags": [
+      "応援",
+      "推し活",
+      "ハート"
+    ],
+    "reading": [
+      "おうえん",
+      "だいすき"
+    ]
+  },
+  {
+    "text": "応援( ˶˃ᴗ˂ )ﾉ",
+    "slug": "ouen-0033",
+    "categories": [
+      "ouen",
+      "cute"
+    ],
+    "tags": [
+      "応援",
+      "推し活",
+      "かわいい"
+    ],
+    "reading": [
+      "おうえん"
+    ]
+  },
+  {
+    "text": "( ´ ᵕ ` )ﾉ そばにいる",
+    "slug": "ouen-0043",
+    "categories": [
+      "ouen",
+      "cute"
+    ],
+    "tags": [
+      "応援",
+      "気づかい"
+    ],
+    "reading": [
+      "そばにいる",
+      "おうえん"
+    ]
+  },
+  {
+    "text": "おうえんしてる( ´ ᵕ ` )",
+    "slug": "ouen-0046",
+    "categories": [
+      "ouen",
+      "cute"
+    ],
+    "tags": [
+      "応援",
+      "推し活"
+    ],
+    "reading": [
+      "おうえん"
+    ]
+  },
+  {
     "text": "(˃ ᵕ ˂ )♡",
     "slug": "ryosangata-0025",
     "categories": [

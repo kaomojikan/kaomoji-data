@@ -1,16 +1,16 @@
 {
-  "lastUpdated": "2026-06-06",
-  "totalKaomoji": 1649,
-  "totalCategories": 20,
+  "lastUpdated": "2026-06-08",
+  "totalKaomoji": 1808,
+  "totalCategories": 23,
   "byCategory": {
-    "cute": 274,
+    "cute": 303,
     "cry": 137,
     "nadenade": 80,
     "chira": 78,
     "copype": 88,
     "nageru": 50,
     "mogumogu": 48,
-    "animal": 108,
+    "animal": 109,
     "ureshii": 78,
     "tereru": 97,
     "bikkuri": 74,
@@ -22,6 +22,9 @@
     "suki": 78,
     "tehepero": 78,
     "taoreru": 70,
-    "aa": 58
+    "aa": 58,
+    "nemui": 50,
+    "okoru": 51,
+    "ouen": 58
   }
 }
